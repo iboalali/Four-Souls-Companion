@@ -1,0 +1,134 @@
+{
+  "1": {
+    "name": "Apollyon",
+    "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/apollyon.png",
+    "health": 2,
+    "attack": 1
+  },
+  "2": {
+    "name": "Azazel",
+    "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/azazel.png",
+    "health": 2,
+    "attack": 1
+  },
+  "3": {
+    "name": "Blue Baby",
+    "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/blue_baby.png",
+    "health": 2,
+    "attack": 1
+  },
+  "4": {
+    "name": "Bum-Bo",
+    "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/bum-bo.png",
+    "health": 2,
+    "attack": 1
+  },
+  "5": {
+    "name": "Cain",
+    "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/cain.png",
+    "health": 2,
+    "attack": 1
+  },
+  "6": {
+    "name": "Dark Judas",
+    "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/dark_judas.png",
+    "health": 2,
+    "attack": 1
+  },
+  "7": {
+    "name": "Eden",
+    "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/eden_1.png",
+    "health": 2,
+    "attack": 1
+  },
+  "8": {
+    "name": "Eden",
+    "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/eden_2.png",
+    "health": 2,
+    "attack": 1
+  },
+  "9": {
+    "name": "Eden",
+    "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/eden_3.png",
+    "health": 2,
+    "attack": 1
+  },
+  "10": {
+    "name": "Eve",
+    "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/eve.png",
+    "health": 2,
+    "attack": 1
+  },
+  "11": {
+    "name": "Guppy",
+    "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/guppy.png",
+    "health": 2,
+    "attack": 1
+  },
+  "12": {
+    "name": "Issac",
+    "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/isaac.png",
+    "health": 2,
+    "attack": 1
+  },
+  "13": {
+    "name": "Judas",
+    "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/judas.png",
+    "health": 2,
+    "attack": 1
+  },
+  "14": {
+    "name": "Lazarus",
+    "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/lazarus.png",
+    "health": 2,
+    "attack": 1
+  },
+  "15": {
+    "name": "Lilith",
+    "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/lilith.png",
+    "health": 2,
+    "attack": 1
+  },
+  "16": {
+    "name": "Maggy",
+    "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/maggy.png",
+    "health": 2,
+    "attack": 1
+  },
+  "17": {
+    "name": "Samson",
+    "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/samson.png",
+    "health": 2,
+    "attack": 1
+  },
+  "18": {
+    "name": "Tapeworm",
+    "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/tapeworm.png",
+    "health": 2,
+    "attack": 1
+  },
+  "19": {
+    "name": "The Forgotten",
+    "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/the_forgotten.png",
+    "health": 2,
+    "attack": 1
+  },
+  "20": {
+    "name": "The Keeper",
+    "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/the_keeper.png",
+    "health": 2,
+    "attack": 1
+  },
+  "21": {
+    "name": "The Lost",
+    "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/the_lost.png",
+    "health": 1,
+    "attack": 1
+  },
+  "22": {
+    "name": "Whore Of Babylon",
+    "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/whore_of_babylon.png",
+    "health": 2,
+    "attack": 1
+  }
+}
