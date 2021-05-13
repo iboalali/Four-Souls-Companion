@@ -1,13 +1,13 @@
 {
     "version": 1,
-    "back": {
-        "characters": {
-            "count": 22,
-            "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/main/Characters/back.png"
-        },
-        "monsters": {
-            "count": 127,
-            "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/main/Monsters/back.png"
-        }
+    "characters": {
+        "count": 22,
+        "back": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/main/Characters/back.png",
+        "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/main/Characters.json"
+    },
+    "monsters": {
+        "count": 127,
+        "back": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/main/Monsters/back.png",
+        "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/main/Monsters.json"
     }
 }
