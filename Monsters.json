@@ -2,6 +2,7 @@
   "Monsters": [
     {
       "id": 1,
+      "version": 1,
       "name": "Begotten",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/begotten.png",
       "health": 3,
@@ -10,6 +11,7 @@
     },
     {
       "id": 2,
+      "version": 1,
       "name": "Big Spider",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/big_spider.png",
       "health": 3,
@@ -18,6 +20,7 @@
     },
     {
       "id": 3,
+      "version": 1,
       "name": "Black Bony",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/black_bony.png",
       "health": 3,
@@ -26,6 +29,7 @@
     },
     {
       "id": 4,
+      "version": 1,
       "name": "Blastocyst",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/blastocyst.png",
       "health": 5,
@@ -34,6 +38,7 @@
     },
     {
       "id": 5,
+      "version": 1,
       "name": "Boil",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/boil.png",
       "health": 2,
@@ -42,6 +47,7 @@
     },
     {
       "id": 6,
+      "version": 1,
       "name": "Bony",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/bony.png",
       "health": 2,
@@ -50,6 +56,7 @@
     },
     {
       "id": 7,
+      "version": 1,
       "name": "Boom Fly",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/boom_fly.png",
       "health": 1,
@@ -58,6 +65,7 @@
     },
     {
       "id": 8,
+      "version": 1,
       "name": "Brain",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/brain.png",
       "health": 2,
@@ -66,6 +74,7 @@
     },
     {
       "id": 9,
+      "version": 1,
       "name": "Carrion Queen",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/carrion_queen.png",
       "health": 3,
@@ -74,6 +83,7 @@
     },
     {
       "id": 10,
+      "version": 1,
       "name": "Charger",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/charger.png",
       "health": 1,
@@ -82,6 +92,7 @@
     },
     {
       "id": 11,
+      "version": 1,
       "name": "Chub",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/chub.png",
       "health": 4,
@@ -90,6 +101,7 @@
     },
     {
       "id": 12,
+      "version": 1,
       "name": "Clotty",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/clotty.png",
       "health": 2,
@@ -98,6 +110,7 @@
     },
     {
       "id": 13,
+      "version": 1,
       "name": "Cod Worm",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/cod_worm.png",
       "health": 1,
@@ -106,6 +119,7 @@
     },
     {
       "id": 14,
+      "version": 1,
       "name": "Conjoined Fatty",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/conjoined_fatty.png",
       "health": 4,
@@ -114,6 +128,7 @@
     },
     {
       "id": 15,
+      "version": 1,
       "name": "Conquest",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/conquest.png",
       "health": 2,
@@ -122,6 +137,7 @@
     },
     {
       "id": 16,
+      "version": 1,
       "name": "Cursed Fatty",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/cursed_fatty.png",
       "health": 4,
@@ -130,6 +146,7 @@
     },
     {
       "id": 17,
+      "version": 1,
       "name": "Cursed Gaper",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/cursed_gaper.png",
       "health": 2,
@@ -138,6 +155,7 @@
     },
     {
       "id": 18,
+      "version": 1,
       "name": "Cursed Globin",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/cursed_globin.png",
       "health": 3,
@@ -146,6 +164,7 @@
     },
     {
       "id": 19,
+      "version": 1,
       "name": "Cursed Horf",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/cursed_horf.png",
       "health": 1,
@@ -154,6 +173,7 @@
     },
     {
       "id": 20,
+      "version": 1,
       "name": "Cursed Keeper Head",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/cursed_keeper_head.png",
       "health": 2,
@@ -162,6 +182,7 @@
     },
     {
       "id": 21,
+      "version": 1,
       "name": "Cursed Mom's Hand",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/cursed_mom's_hand.png",
       "health": 2,
@@ -170,6 +191,7 @@
     },
     {
       "id": 22,
+      "version": 1,
       "name": "Cursed Psy Horf",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/cursed_psy_horf.png",
       "health": 1,
@@ -178,6 +200,7 @@
     },
     {
       "id": 23,
+      "version": 1,
       "name": "Cursed Tumor",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/cursed_tumor.png",
       "health": 3,
@@ -186,6 +209,7 @@
     },
     {
       "id": 24,
+      "version": 1,
       "name": "Daddy Long Legs",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/daddy_long_legs.png",
       "health": 4,
@@ -194,6 +218,7 @@
     },
     {
       "id": 25,
+      "version": 1,
       "name": "Dank Globin",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/dank_globin.png",
       "health": 2,
@@ -202,6 +227,7 @@
     },
     {
       "id": 26,
+      "version": 1,
       "name": "Dark One",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/dark_one.png",
       "health": 3,
@@ -210,6 +236,7 @@
     },
     {
       "id": 27,
+      "version": 1,
       "name": "Death's Head",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/death's_head.png",
       "health": 3,
@@ -218,6 +245,7 @@
     },
     {
       "id": 28,
+      "version": 1,
       "name": "Death",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/death.png",
       "health": 2,
@@ -226,6 +254,7 @@
     },
     {
       "id": 29,
+      "version": 1,
       "name": "Delirium",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/delirium.png",
       "health": 5,
@@ -234,6 +263,7 @@
     },
     {
       "id": 30,
+      "version": 1,
       "name": "Dinga",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/dinga.png",
       "health": 3,
@@ -242,6 +272,7 @@
     },
     {
       "id": 31,
+      "version": 1,
       "name": "Dingle",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/dingle.png",
       "health": 3,
@@ -250,6 +281,7 @@
     },
     {
       "id": 32,
+      "version": 1,
       "name": "Dip",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/dip.png",
       "health": 1,
@@ -258,6 +290,7 @@
     },
     {
       "id": 33,
+      "version": 1,
       "name": "Dople",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/dople.png",
       "health": 2,
@@ -266,6 +299,7 @@
     },
     {
       "id": 34,
+      "version": 1,
       "name": "Envy",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/envy.png",
       "health": 2,
@@ -274,6 +308,7 @@
     },
     {
       "id": 35,
+      "version": 1,
       "name": "Evil Twin",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/evil_twin.png",
       "health": 3,
@@ -282,6 +317,7 @@
     },
     {
       "id": 36,
+      "version": 1,
       "name": "Famine",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/famine.png",
       "health": 2,
@@ -290,6 +326,7 @@
     },
     {
       "id": 37,
+      "version": 1,
       "name": "Fat Bat",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/fat_bat.png",
       "health": 3,
@@ -298,6 +335,7 @@
     },
     {
       "id": 38,
+      "version": 1,
       "name": "Fatty",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/fatty.png",
       "health": 4,
@@ -306,6 +344,7 @@
     },
     {
       "id": 39,
+      "version": 1,
       "name": "Fistula",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/fistula.png",
       "health": 4,
@@ -314,6 +353,7 @@
     },
     {
       "id": 40,
+      "version": 1,
       "name": "Flaming Hopper",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/flaming_hopper.png",
       "health": 1,
@@ -322,6 +362,7 @@
     },
     {
       "id": 41,
+      "version": 1,
       "name": "Fly",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/fly.png",
       "health": 1,
@@ -330,6 +371,7 @@
     },
     {
       "id": 42,
+      "version": 1,
       "name": "Gaper",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/gaper.png",
       "health": 2,
@@ -338,6 +380,7 @@
     },
     {
       "id": 43,
+      "version": 1,
       "name": "Gemini",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/gemini.png",
       "health": 3,
@@ -346,6 +389,7 @@
     },
     {
       "id": 44,
+      "version": 1,
       "name": "Gish",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/gish.png",
       "health": 6,
@@ -354,6 +398,7 @@
     },
     {
       "id": 45,
+      "version": 1,
       "name": "Globin",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/globin.png",
       "health": 4,
@@ -362,6 +407,7 @@
     },
     {
       "id": 46,
+      "version": 1,
       "name": "Gluttony",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/gluttony.png",
       "health": 4,
@@ -370,6 +416,7 @@
     },
     {
       "id": 47,
+      "version": 1,
       "name": "Greed",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/greed.png",
       "health": 3,
@@ -378,6 +425,7 @@
     },
     {
       "id": 48,
+      "version": 1,
       "name": "Greedling",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/greedling.png",
       "health": 2,
@@ -386,6 +434,7 @@
     },
     {
       "id": 49,
+      "version": 1,
       "name": "Gurdy",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/gurdy.png",
       "health": 5,
@@ -394,6 +443,7 @@
     },
     {
       "id": 50,
+      "version": 1,
       "name": "Gurdy Jr.",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/gurdy_jr..png",
       "health": 2,
@@ -402,6 +452,7 @@
     },
     {
       "id": 51,
+      "version": 1,
       "name": "Gurglings",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/gurglings.png",
       "health": 4,
@@ -410,6 +461,7 @@
     },
     {
       "id": 52,
+      "version": 1,
       "name": "Hanger",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/hanger.png",
       "health": 2,
@@ -418,6 +470,7 @@
     },
     {
       "id": 53,
+      "version": 1,
       "name": "Headless Horseman",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/headless_horseman.png",
       "health": 3,
@@ -426,6 +479,7 @@
     },
     {
       "id": 54,
+      "version": 1,
       "name": "Holy Bony",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/holy_bony.png",
       "health": 1,
@@ -434,6 +488,7 @@
     },
     {
       "id": 55,
+      "version": 1,
       "name": "Holy Dinga",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/holy_dinga.png",
       "health": 3,
@@ -442,6 +497,7 @@
     },
     {
       "id": 56,
+      "version": 1,
       "name": "Holy Dip",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/holy_dip.png",
       "health": 1,
@@ -450,6 +506,7 @@
     },
     {
       "id": 57,
+      "version": 1,
       "name": "Holy Keeper Head",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/holy_keeper_head.png",
       "health": 2,
@@ -458,6 +515,7 @@
     },
     {
       "id": 58,
+      "version": 1,
       "name": "Holy Mom's Eye",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/holy_mom's_eye.png",
       "health": 1,
@@ -466,6 +524,7 @@
     },
     {
       "id": 59,
+      "version": 1,
       "name": "Holy Mulligan",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/holy_mulligan.png",
       "health": 1,
@@ -474,6 +533,7 @@
     },
     {
       "id": 60,
+      "version": 1,
       "name": "Holy Squirt",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/holy_squirt.png",
       "health": 2,
@@ -482,6 +542,7 @@
     },
     {
       "id": 61,
+      "version": 1,
       "name": "Hopper",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/hopper.png",
       "health": 2,
@@ -490,6 +551,7 @@
     },
     {
       "id": 62,
+      "version": 1,
       "name": "Horf",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/horf.png",
       "health": 1,
@@ -498,6 +560,7 @@
     },
     {
       "id": 63,
+      "version": 1,
       "name": "Hush",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/hush.png",
       "health": 8,
@@ -506,6 +569,7 @@
     },
     {
       "id": 64,
+      "version": 1,
       "name": "Imp",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/imp.png",
       "health": 3,
@@ -514,6 +578,7 @@
     },
     {
       "id": 65,
+      "version": 1,
       "name": "Isaac!",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/isaac!.png",
       "health": 7,
@@ -522,6 +587,7 @@
     },
     {
       "id": 66,
+      "version": 1,
       "name": "Keeper Head",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/keeper_head.png",
       "health": 2,
@@ -530,6 +596,7 @@
     },
     {
       "id": 67,
+      "version": 1,
       "name": "Knight",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/knight.png",
       "health": 2,
@@ -538,6 +605,7 @@
     },
     {
       "id": 68,
+      "version": 1,
       "name": "Krampus",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/krampus.png",
       "health": 4,
@@ -546,6 +614,7 @@
     },
     {
       "id": 69,
+      "version": 1,
       "name": "Larry Jr.",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/larry_jr..png",
       "health": 4,
@@ -554,6 +623,7 @@
     },
     {
       "id": 70,
+      "version": 1,
       "name": "Leaper",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/leaper.png",
       "health": 2,
@@ -562,6 +632,7 @@
     },
     {
       "id": 71,
+      "version": 1,
       "name": "Leech",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/leech.png",
       "health": 1,
@@ -570,6 +641,7 @@
     },
     {
       "id": 72,
+      "version": 1,
       "name": "Little Horn",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/little_horn.png",
       "health": 2,
@@ -578,6 +650,7 @@
     },
     {
       "id": 73,
+      "version": 1,
       "name": "Lust",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/lust.png",
       "health": 2,
@@ -586,6 +659,7 @@
     },
     {
       "id": 74,
+      "version": 1,
       "name": "Mask of Infamy",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/mask_of_infamy.png",
       "health": 4,
@@ -594,6 +668,7 @@
     },
     {
       "id": 75,
+      "version": 1,
       "name": "Mega Fatty",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/mega_fatty.png",
       "health": 3,
@@ -602,6 +677,7 @@
     },
     {
       "id": 76,
+      "version": 1,
       "name": "Mom!",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/mom!.png",
       "health": 5,
@@ -610,6 +686,7 @@
     },
     {
       "id": 77,
+      "version": 1,
       "name": "Mom's Dead Hand",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/mom's_dead_hand.png",
       "health": 2,
@@ -618,6 +695,7 @@
     },
     {
       "id": 78,
+      "version": 1,
       "name": "Mom's Eye",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/mom's_eye.png",
       "health": 1,
@@ -626,6 +704,7 @@
     },
     {
       "id": 79,
+      "version": 1,
       "name": "Mom's Hand",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/mom's_hand.png",
       "health": 2,
@@ -634,6 +713,7 @@
     },
     {
       "id": 80,
+      "version": 1,
       "name": "Mom's Heart!",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/mom's_heart!.png",
       "health": 8,
@@ -642,6 +722,7 @@
     },
     {
       "id": 81,
+      "version": 1,
       "name": "Monstro Ii",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/monstro.png",
       "health": 4,
@@ -650,6 +731,7 @@
     },
     {
       "id": 82,
+      "version": 1,
       "name": "Monstro",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/monstro_ii.png",
       "health": 5,
@@ -658,6 +740,7 @@
     },
     {
       "id": 83,
+      "version": 1,
       "name": "Mulliboom",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/mulliboom.png",
       "health": 1,
@@ -666,6 +749,7 @@
     },
     {
       "id": 84,
+      "version": 1,
       "name": "Mulligan",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/mulligan.png",
       "health": 1,
@@ -674,6 +758,7 @@
     },
     {
       "id": 85,
+      "version": 1,
       "name": "Nerve Ending",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/nerve_ending.png",
       "health": 4,
@@ -682,6 +767,7 @@
     },
     {
       "id": 86,
+      "version": 1,
       "name": "Pale Fatty",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/pale_fatty.png",
       "health": 4,
@@ -690,6 +776,7 @@
     },
     {
       "id": 87,
+      "version": 1,
       "name": "Parabite",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/parabite.png",
       "health": 2,
@@ -698,6 +785,7 @@
     },
     {
       "id": 88,
+      "version": 1,
       "name": "Peep",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/peep.png",
       "health": 3,
@@ -706,6 +794,7 @@
     },
     {
       "id": 89,
+      "version": 1,
       "name": "Pestilence",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/pestilence.png",
       "health": 4,
@@ -714,6 +803,7 @@
     },
     {
       "id": 90,
+      "version": 1,
       "name": "Pin",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/pin.png",
       "health": 2,
@@ -722,6 +812,7 @@
     },
     {
       "id": 91,
+      "version": 1,
       "name": "Polycephalus",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/polycephalus.png",
       "health": 3,
@@ -730,6 +821,7 @@
     },
     {
       "id": 92,
+      "version": 1,
       "name": "Pooter",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/pooter.png",
       "health": 2,
@@ -738,6 +830,7 @@
     },
     {
       "id": 93,
+      "version": 1,
       "name": "Portal",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/portal.png",
       "health": 2,
@@ -746,6 +839,7 @@
     },
     {
       "id": 94,
+      "version": 1,
       "name": "Pride",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/pride.png",
       "health": 2,
@@ -754,6 +848,7 @@
     },
     {
       "id": 95,
+      "version": 1,
       "name": "Psy Horf",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/psy_horf.png",
       "health": 1,
@@ -762,6 +857,7 @@
     },
     {
       "id": 96,
+      "version": 1,
       "name": "Rag Man",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/rag_man.png",
       "health": 2,
@@ -770,6 +866,7 @@
     },
     {
       "id": 97,
+      "version": 1,
       "name": "Rage Creep",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/rage_creep.png",
       "health": 1,
@@ -778,6 +875,7 @@
     },
     {
       "id": 98,
+      "version": 1,
       "name": "Ragling",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/ragling.png",
       "health": 2,
@@ -786,6 +884,7 @@
     },
     {
       "id": 99,
+      "version": 1,
       "name": "Red Host",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/red_host.png",
       "health": 2,
@@ -794,6 +893,7 @@
     },
     {
       "id": 100,
+      "version": 1,
       "name": "Ring of Flies",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/ring_of_flies.png",
       "health": 3,
@@ -802,6 +902,7 @@
     },
     {
       "id": 101,
+      "version": 1,
       "name": "Round Worm",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/round_worm.png",
       "health": 1,
@@ -810,6 +911,7 @@
     },
     {
       "id": 102,
+      "version": 1,
       "name": "Roundy",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/roundy.png",
       "health": 3,
@@ -818,6 +920,7 @@
     },
     {
       "id": 103,
+      "version": 1,
       "name": "Satan!",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/satan!.png",
       "health": 6,
@@ -826,6 +929,7 @@
     },
     {
       "id": 104,
+      "version": 1,
       "name": "Scolex",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/scolex.png",
       "health": 3,
@@ -834,6 +938,7 @@
     },
     {
       "id": 105,
+      "version": 1,
       "name": "Sloth",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/sloth.png",
       "health": 3,
@@ -842,6 +947,7 @@
     },
     {
       "id": 106,
+      "version": 1,
       "name": "Spider",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/spider.png",
       "health": 1,
@@ -850,6 +956,7 @@
     },
     {
       "id": 107,
+      "version": 1,
       "name": "Squirt",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/squirt.png",
       "health": 2,
@@ -858,6 +965,7 @@
     },
     {
       "id": 108,
+      "version": 1,
       "name": "Steven",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/steven.png",
       "health": 4,
@@ -866,6 +974,7 @@
     },
     {
       "id": 109,
+      "version": 1,
       "name": "Stoney",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/stoney.png",
       "health": 3,
@@ -874,6 +983,7 @@
     },
     {
       "id": 110,
+      "version": 1,
       "name": "Sucker",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/sucker.png",
       "health": 1,
@@ -882,6 +992,7 @@
     },
     {
       "id": 111,
+      "version": 1,
       "name": "Swarm of Flies",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/swarm_of_flies.png",
       "health": 5,
@@ -890,6 +1001,7 @@
     },
     {
       "id": 112,
+      "version": 1,
       "name": "Swarmer",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/swarmer.png",
       "health": 4,
@@ -898,6 +1010,7 @@
     },
     {
       "id": 113,
+      "version": 1,
       "name": "Tapeworrm",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/tapeworrm.png",
       "health": 4,
@@ -906,6 +1019,7 @@
     },
     {
       "id": 114,
+      "version": 1,
       "name": "The Bloat 1",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/the_bloat_1.png",
       "health": 5,
@@ -914,6 +1028,7 @@
     },
     {
       "id": 115,
+      "version": 1,
       "name": "The Bloat 2",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/the_bloat_2.png",
       "health": 4,
@@ -922,6 +1037,7 @@
     },
     {
       "id": 116,
+      "version": 1,
       "name": "The Bloat 3",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/the_bloat_3.png",
       "health": 4,
@@ -930,6 +1046,7 @@
     },
     {
       "id": 117,
+      "version": 1,
       "name": "The Cage",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/the_cage.png",
       "health": 6,
@@ -938,6 +1055,7 @@
     },
     {
       "id": 118,
+      "version": 1,
       "name": "The Duke of Flies",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/the_duke_of_flies.png",
       "health": 4,
@@ -946,6 +1064,7 @@
     },
     {
       "id": 119,
+      "version": 1,
       "name": "The Fallen",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/the_fallen.png",
       "health": 4,
@@ -954,6 +1073,7 @@
     },
     {
       "id": 120,
+      "version": 1,
       "name": "The Haunt",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/the_haunt.png",
       "health": 3,
@@ -962,6 +1082,7 @@
     },
     {
       "id": 121,
+      "version": 1,
       "name": "The Lamb",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/the_lamb.png",
       "health": 6,
@@ -970,6 +1091,7 @@
     },
     {
       "id": 122,
+      "version": 1,
       "name": "Trite",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/trite.png",
       "health": 1,
@@ -978,6 +1100,7 @@
     },
     {
       "id": 123,
+      "version": 1,
       "name": "Tumor",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/tumor.png",
       "health": 3,
@@ -986,6 +1109,7 @@
     },
     {
       "id": 124,
+      "version": 1,
       "name": "War",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/war.png",
       "health": 3,
@@ -994,6 +1118,7 @@
     },
     {
       "id": 125,
+      "version": 1,
       "name": "Widow",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/widow.png",
       "health": 3,
@@ -1002,6 +1127,7 @@
     },
     {
       "id": 126,
+      "version": 1,
       "name": "Wizoob",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/wizoob.png",
       "health": 3,
@@ -1010,6 +1136,7 @@
     },
     {
       "id": 127,
+      "version": 1,
       "name": "Wrath",
       "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/wrath.png",
       "health": 3,
