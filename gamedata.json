@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "cards": [
+    "cardCategories": [
         {
             "type": "Characters",
             "back": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/back.png",
