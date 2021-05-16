@@ -9,155 +9,287 @@
                     "id": 1,
                     "name": "Apollyon",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/apollyon.png",
-                    "health": 2,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 2
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 2,
                     "name": "Azazel",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/azazel.png",
-                    "health": 2,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 2
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 3,
                     "name": "Blue Baby",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/blue_baby.png",
-                    "health": 2,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 2
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 4,
                     "name": "Bum-Bo",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/bum-bo.png",
-                    "health": 2,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 2
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 5,
                     "name": "Cain",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/cain.png",
-                    "health": 2,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 2
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 6,
                     "name": "Dark Judas",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/dark_judas.png",
-                    "health": 2,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 2
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 7,
                     "name": "Eden",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/eden_1.png",
-                    "health": 2,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 2
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 8,
                     "name": "Eden",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/eden_2.png",
-                    "health": 2,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 2
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 9,
                     "name": "Eden",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/eden_3.png",
-                    "health": 2,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 2
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 10,
                     "name": "Eve",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/eve.png",
-                    "health": 2,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 2
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 11,
                     "name": "Guppy",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/guppy.png",
-                    "health": 2,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 2
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 12,
                     "name": "Issac",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/isaac.png",
-                    "health": 2,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 2
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 13,
                     "name": "Judas",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/judas.png",
-                    "health": 2,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 2
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 14,
                     "name": "Lazarus",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/lazarus.png",
-                    "health": 2,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 2
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 15,
                     "name": "Lilith",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/lilith.png",
-                    "health": 2,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 2
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 16,
                     "name": "Maggy",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/maggy.png",
-                    "health": 2,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 2
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 17,
                     "name": "Samson",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/samson.png",
-                    "health": 2,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 2
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 18,
                     "name": "Tapeworm",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/tapeworm.png",
-                    "health": 2,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 2
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 19,
                     "name": "The Forgotten",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/the_forgotten.png",
-                    "health": 2,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 2
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 20,
                     "name": "The Keeper",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/the_keeper.png",
-                    "health": 2,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 2
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 21,
                     "name": "The Lost",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/the_lost.png",
-                    "health": 1,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 1
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 22,
                     "name": "Whore Of Babylon",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/whore_of_babylon.png",
-                    "health": 2,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 2
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 }
             ]
         },
@@ -169,177 +301,353 @@
                     "id": 1,
                     "name": "Begotten",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/begotten.png",
-                    "health": 3,
-                    "evade": 4,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 3
+                        },
+                        {
+                            "evade" : 4
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 2,
                     "name": "Big Spider",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/big_spider.png",
-                    "health": 3,
-                    "evade": 4,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 3
+                        },
+                        {
+                            "evade" : 4
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 3,
                     "name": "Black Bony",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/black_bony.png",
-                    "health": 3,
-                    "evade": 4,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 3
+                        },
+                        {
+                            "evade" : 4
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 4,
                     "name": "Blastocyst",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/blastocyst.png",
-                    "health": 5,
-                    "evade": 4,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 5
+                        },
+                        {
+                            "evade" : 4
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 5,
                     "name": "Boil",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/boil.png",
-                    "health": 2,
-                    "evade": 4,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 2
+                        },
+                        {
+                            "evade" : 4
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 6,
                     "name": "Bony",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/bony.png",
-                    "health": 2,
-                    "evade": 3,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 2
+                        },
+                        {
+                            "evade" : 3
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 7,
                     "name": "Boom Fly",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/boom_fly.png",
-                    "health": 1,
-                    "evade": 4,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 1
+                        },
+                        {
+                            "evade" : 4
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 8,
                     "name": "Brain",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/brain.png",
-                    "health": 2,
-                    "evade": 3,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 2
+                        },
+                        {
+                            "evade" : 3
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 9,
                     "name": "Carrion Queen",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/carrion_queen.png",
-                    "health": 3,
-                    "evade": 4,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 3
+                        },
+                        {
+                            "evade" : 4
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 10,
                     "name": "Charger",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/charger.png",
-                    "health": 1,
-                    "evade": 5,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 1
+                        },
+                        {
+                            "evade" : 5
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 11,
                     "name": "Chub",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/chub.png",
-                    "health": 4,
-                    "evade": 3,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 4
+                        },
+                        {
+                            "evade" : 3
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 12,
                     "name": "Clotty",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/clotty.png",
-                    "health": 2,
-                    "evade": 3,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 2
+                        },
+                        {
+                            "evade" : 3
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 13,
                     "name": "Cod Worm",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/cod_worm.png",
-                    "health": 1,
-                    "evade": 6,
-                    "attack": -1
+                    "counters": [
+                        {
+                            "health": 1
+                        },
+                        {
+                            "evade" : 6
+                        },
+                        {
+                            "attack": -1
+                        }
+                    ]
                 },
                 {
                     "id": 14,
                     "name": "Conjoined Fatty",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/conjoined_fatty.png",
-                    "health": 4,
-                    "evade": 3,
-                    "attack": 2
+                    "counters": [
+                        {
+                            "health": 4
+                        },
+                        {
+                            "evade" : 3
+                        },
+                        {
+                            "attack": 2
+                        }
+                    ]
                 },
                 {
                     "id": 15,
                     "name": "Conquest",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/conquest.png",
-                    "health": 2,
-                    "evade": 3,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 2
+                        },
+                        {
+                            "evade" : 3
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 16,
                     "name": "Cursed Fatty",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/cursed_fatty.png",
-                    "health": 4,
-                    "evade": 2,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 4
+                        },
+                        {
+                            "evade" : 2
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 17,
                     "name": "Cursed Gaper",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/cursed_gaper.png",
-                    "health": 2,
-                    "evade": 4,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 2
+                        },
+                        {
+                            "evade" : 4
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 18,
                     "name": "Cursed Globin",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/cursed_globin.png",
-                    "health": 3,
-                    "evade": 4,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 3
+                        },
+                        {
+                            "evade" : 4
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 19,
                     "name": "Cursed Horf",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/cursed_horf.png",
-                    "health": 1,
-                    "evade": 4,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 1
+                        },
+                        {
+                            "evade" : 4
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 20,
                     "name": "Cursed Keeper Head",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/cursed_keeper_head.png",
-                    "health": 2,
-                    "evade": 4,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 2
+                        },
+                        {
+                            "evade" : 4
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 21,
                     "name": "Cursed Mom's Hand",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/cursed_mom's_hand.png",
-                    "health": 2,
-                    "evade": 4,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 2
+                        },
+                        {
+                            "evade" : 4
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 22,
                     "name": "Cursed Psy Horf",
                     "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/cursed_psy_horf.png",
-                    "health": 1,
-                    "evade": 5,
-                    "attack": 1
+                    "counters": [
+                        {
+                            "health": 1
+                        },
+                        {
+                            "evade" : 5
+                        },
+                        {
+                            "attack": 1
+                        }
+                    ]
                 },
                 {
                     "id": 23,
