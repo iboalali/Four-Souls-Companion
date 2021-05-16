@@ -3,14 +3,12 @@
     "cards": [
         {
             "type": "characters",
-            "version": 1,
             "count": 22,
             "back": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters/back.png",
             "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Characters.json"
         },
         {
             "type": "monsters",
-            "version": 1,
             "count": 127,
             "back": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters/back.png",
             "url": "https://raw.githubusercontent.com/iboalali/Four-Souls-Companion/version-1/Monsters.json"
