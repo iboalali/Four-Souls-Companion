@@ -1,0 +1,2320 @@
+[
+    {
+        "id": 1,
+        "name": "Apollyon",
+        "type": "character",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Azazel",
+        "type": "character",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Blue Baby",
+        "type": "character",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Bum-Bo",
+        "type": "character",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Cain",
+        "type": "character",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Dark Judas",
+        "type": "character",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Eden",
+        "type": "character",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Eden",
+        "type": "character",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Eden",
+        "type": "character",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Eve",
+        "type": "character",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Guppy",
+        "type": "character",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Issac",
+        "type": "character",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Judas",
+        "type": "character",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Lazarus",
+        "type": "character",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Lilith",
+        "type": "character",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Maggy",
+        "type": "character",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Samson",
+        "type": "character",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Tapeworm",
+        "type": "character",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "The Forgotten",
+        "type": "character",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "The Keeper",
+        "type": "character",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "The Lost",
+        "type": "character",
+        "counters": [
+            {
+                "health": 1
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Whore Of Babylon",
+        "type": "character",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "name": "Begotten",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "name": "Big Spider",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "name": "Black Bony",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "name": "Blastocyst",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 5
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "name": "Boil",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "name": "Bony",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "name": "Boom Fly",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 1
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "name": "Brain",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "name": "Carrion Queen",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "name": "Charger",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 1
+            },
+            {
+                "evade": 5
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "name": "Chub",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 4
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "name": "Clotty",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "name": "Cod Worm",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 1
+            },
+            {
+                "evade": 6
+            },
+            {
+                "attack": -1
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "name": "Conjoined Fatty",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 4
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "name": "Conquest",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "name": "Cursed Fatty",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 4
+            },
+            {
+                "evade": 2
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "name": "Cursed Gaper",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "name": "Cursed Globin",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "name": "Cursed Horf",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 1
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "name": "Cursed Keeper Head",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "name": "Cursed Mom's Hand",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "name": "Cursed Psy Horf",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 1
+            },
+            {
+                "evade": 5
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "name": "Cursed Tumor",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "name": "Daddy Long Legs",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 4
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "name": "Dank Globin",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "name": "Dark One",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "name": "Death's Head",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": -1
+            },
+            {
+                "attack": -1
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "name": "Death",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "name": "Delirium",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 5
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 3
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "name": "Dinga",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "name": "Dingle",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "name": "Dip",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 1
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "name": "Dople",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "name": "Envy",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 5
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "name": "Evil Twin",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": 5
+            },
+            {
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "name": "Famine",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "name": "Fat Bat",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": 5
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "name": "Fatty",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 4
+            },
+            {
+                "evade": 2
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "name": "Fistula",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 4
+            },
+            {
+                "evade": 2
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "name": "Flaming Hopper",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 1
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "name": "Fly",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 1
+            },
+            {
+                "evade": 2
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "name": "Gaper",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "name": "Gemini",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "name": "Gish",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 6
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "name": "Globin",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 4
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "name": "Gluttony",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 4
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "name": "Greed",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "name": "Greedling",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 5
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "name": "Gurdy",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 5
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "name": "Gurdy Jr.",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 5
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "name": "Gurglings",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 4
+            },
+            {
+                "evade": 5
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "name": "Hanger",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "name": "Headless Horseman",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "name": "Holy Bony",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 1
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "name": "Holy Dinga",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "name": "Holy Dip",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 1
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "name": "Holy Keeper Head",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "name": "Holy Mom's Eye",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 1
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "name": "Holy Mulligan",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 1
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "name": "Holy Squirt",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "name": "Hopper",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "name": "Horf",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 1
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "name": "Hush",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 8
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "name": "Imp",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": 5
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "name": "Isaac!",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 7
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "name": "Keeper Head",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "name": "Knight",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 6
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "name": "Krampus",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 4
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "name": "Larry Jr.",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 4
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "name": "Leaper",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "name": "Leech",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 1
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "name": "Little Horn",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 6
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "name": "Lust",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "name": "Mask of Infamy",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 4
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "name": "Mega Fatty",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "name": "Mom!",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 5
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "name": "Mom's Dead Hand",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 5
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "name": "Mom's Eye",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 1
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "name": "Mom's Hand",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "name": "Mom's Heart!",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 8
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "name": "Monstro Ii",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 4
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "name": "Monstro",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 5
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "name": "Mulliboom",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 1
+            },
+            {
+                "evade": 2
+            },
+            {
+                "attack": 4
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "name": "Mulligan",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 1
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "name": "Nerve Ending",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 4
+            },
+            {
+                "evade": 2
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "name": "Pale Fatty",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 4
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "name": "Parabite",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "name": "Peep",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "name": "Pestilence",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 4
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "name": "Pin",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "name": "Polycephalus",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "name": "Pooter",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "name": "Portal",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "name": "Pride",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "name": "Psy Horf",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 1
+            },
+            {
+                "evade": 5
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "name": "Rag Man",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "name": "Rage Creep",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 1
+            },
+            {
+                "evade": 5
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "name": "Ragling",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "name": "Red Host",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "name": "Ring of Flies",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "name": "Round Worm",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 1
+            },
+            {
+                "evade": 5
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "name": "Roundy",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "name": "Satan!",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 6
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "name": "Scolex",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": 5
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "name": "Sloth",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "name": "Spider",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 1
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "name": "Squirt",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 2
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "name": "Steven",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 4
+            },
+            {
+                "evade": 2
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "name": "Stoney",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": -1
+            },
+            {
+                "attack": -1
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "name": "Sucker",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 1
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "name": "Swarm of Flies",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 5
+            },
+            {
+                "evade": 2
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "name": "Swarmer",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 4
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "name": "Tapeworrm",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 4
+            },
+            {
+                "evade": 2
+            },
+            {
+                "attack": 4
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "name": "The Bloat 1",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 5
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "name": "The Bloat 2",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 4
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "name": "The Bloat 3",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 4
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "name": "The Cage",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 6
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "name": "The Duke of Flies",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 4
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "name": "The Fallen",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 4
+            },
+            {
+                "evade": 5
+            },
+            {
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "name": "The Haunt",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "name": "The Lamb",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 6
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 6
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "name": "Trite",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 1
+            },
+            {
+                "evade": 5
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "name": "Tumor",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "name": "War",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "name": "Widow",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": 4
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "name": "Wizoob",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": 5
+            },
+            {
+                "attack": 1
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "name": "Wrath",
+        "type": "monster",
+        "counters": [
+            {
+                "health": 3
+            },
+            {
+                "evade": 3
+            },
+            {
+                "attack": 1
+            }
+        ]
+    }
+]
