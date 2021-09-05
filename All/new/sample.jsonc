@@ -1,0 +1,70 @@
+{
+    "character": [
+        {
+            "id": 1,
+            "name": "Apollyon",
+            "path": "character/1", // generate this path in spreadsheet using the type and id
+            "counters": [
+              {
+                "Health": 2
+              },
+              {
+                "Attack": 1
+              }
+            ],
+            "alt" : [ // use it for all card types to keep the model the same
+                20, // card id
+                21 // card id
+            ],
+            "related" : [ // using "related" for keep the model the same for all card types. here it means character item cards
+                60, // card id
+                61 // card id
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Azazel",
+            "path": "character/2",
+            "counters": [
+              {
+                "Health": 2
+              },
+              {
+                "Attack": 1
+              }
+            ],
+            "alt" : [], // keep empty if there are no alt cards
+            "related" : [] // keep empty if there are no related items
+        }
+      ],
+      "character_item": [
+          {
+            "id": 20,
+            "name": "Apollyon's item",
+            "path": "character_item/1", // generate this path in spreadsheet using the type and id
+            "counters": [], // keep empty if there are no counters
+            "alt" : [],
+            "related" : [ // using "related" for keep the model the same for all card types. here it means character card
+                1 // card id
+            ]
+          }
+      ],
+      "monster":[
+
+      ],
+      "treasure":[
+
+      ],
+      "loot": [
+
+      ],
+      "bonus_soul": [
+
+      ],
+      "room" : [
+
+      ],
+      "the_beast": [
+
+      ]
+}
