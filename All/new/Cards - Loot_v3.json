@@ -266,297 +266,222 @@
     },
     {
       "id": 50052,
-      "name": "A Penny!",
+      "name": "Charged Penny",
       "path": "loot/50052"
     },
     {
       "id": 50053,
-      "name": "2 Cents!",
+      "name": "Joker",
       "path": "loot/50053"
     },
     {
       "id": 50054,
-      "name": "3 Cents!",
+      "name": "Holy Card",
       "path": "loot/50054"
     },
     {
       "id": 50055,
-      "name": "4 Cents!",
+      "name": "Two of Diamonds",
       "path": "loot/50055"
     },
     {
       "id": 50056,
-      "name": "Charged Penny",
+      "name": "A Sack",
       "path": "loot/50056"
     },
     {
       "id": 50057,
-      "name": "Bomb!",
+      "name": "Credit Card",
       "path": "loot/50057"
     },
     {
       "id": 50058,
-      "name": "Joker",
+      "name": "Jera",
       "path": "loot/50058"
     },
     {
       "id": 50059,
-      "name": "Holy Card",
+      "name": "Pills!",
       "path": "loot/50059"
     },
     {
       "id": 50060,
-      "name": "Two of Diamonds",
+      "name": "Pink Eye",
       "path": "loot/50060"
     },
     {
       "id": 50061,
-      "name": "Soul Heart",
+      "name": "Cancer",
       "path": "loot/50061"
     },
     {
       "id": 50062,
-      "name": "A Sack",
+      "name": "Perthro",
       "path": "loot/50062"
     },
     {
       "id": 50063,
-      "name": "Credit Card",
+      "name": "Ansuz",
       "path": "loot/50063"
     },
     {
       "id": 50064,
-      "name": "Jera",
+      "name": "Black Rune",
       "path": "loot/50064"
     },
     {
       "id": 50065,
-      "name": "Pills!",
+      "name": "Tape Worm",
       "path": "loot/50065"
     },
     {
       "id": 50066,
-      "name": "Pink Eye",
+      "name": "AAA Battery",
       "path": "loot/50066"
     },
     {
       "id": 50067,
-      "name": "Cancer",
+      "name": "Poker Chip",
       "path": "loot/50067"
     },
     {
       "id": 50068,
-      "name": "A Penny!",
+      "name": "The Left Hand",
       "path": "loot/50068"
     },
     {
       "id": 50069,
-      "name": "2 Cents!",
+      "name": "Pills!",
       "path": "loot/50069"
     },
     {
       "id": 50070,
-      "name": "3 Cents!",
+      "name": "Pills!",
       "path": "loot/50070"
     },
     {
       "id": 50071,
-      "name": "4 Cents!",
+      "name": "Pills!",
       "path": "loot/50071"
     },
     {
       "id": 50072,
-      "name": "A Nickel!",
+      "name": "? Card",
       "path": "loot/50072"
     },
     {
       "id": 50073,
-      "name": "Bomb!",
+      "name": "Get Out of Jail Card",
       "path": "loot/50073"
     },
     {
       "id": 50074,
-      "name": "Lil Battery",
+      "name": "Gold Key",
       "path": "loot/50074"
     },
     {
       "id": 50075,
-      "name": "Dice Shard",
+      "name": "Chunk of Amber",
       "path": "loot/50075"
     },
     {
       "id": 50076,
-      "name": "Butter Bean!",
+      "name": "Demon Form",
       "path": "loot/50076"
     },
     {
       "id": 50077,
-      "name": "Perthro",
+      "name": "Fiend Fire",
       "path": "loot/50077"
     },
     {
       "id": 50078,
-      "name": "Ansuz",
+      "name": "Jester",
       "path": "loot/50078"
     },
     {
       "id": 50079,
-      "name": "Black Rune",
+      "name": "Witch",
       "path": "loot/50079"
     },
     {
       "id": 50080,
-      "name": "Tape Worm",
+      "name": "Bible Thump!",
       "path": "loot/50080"
     },
     {
       "id": 50081,
-      "name": "AAA Battery",
+      "name": "Greed Butt!",
       "path": "loot/50081"
     },
     {
       "id": 50082,
-      "name": "Poker Chip",
+      "name": "Cow on a Trash Farm",
       "path": "loot/50082"
     },
     {
       "id": 50083,
-      "name": "The Left Hand",
+      "name": "Murder!",
       "path": "loot/50083"
     },
     {
       "id": 50084,
-      "name": "Pills!",
+      "name": "Blanks",
       "path": "loot/50084"
     },
     {
       "id": 50085,
-      "name": "Pills!",
+      "name": "Loot Card",
       "path": "loot/50085"
     },
     {
       "id": 50086,
-      "name": "Pills!",
+      "name": "Cheep Cheep Cheep!",
       "path": "loot/50086"
     },
     {
       "id": 50087,
-      "name": "? Card",
-      "path": "loot/50087"
-    },
-    {
-      "id": 50088,
-      "name": "Get Out of Jail Card",
-      "path": "loot/50088"
-    },
-    {
-      "id": 50089,
-      "name": "Gold Key",
-      "path": "loot/50089"
-    },
-    {
-      "id": 50090,
-      "name": "Chunk of Amber",
-      "path": "loot/50090"
-    },
-    {
-      "id": 50091,
-      "name": "Demon Form",
-      "path": "loot/50091"
-    },
-    {
-      "id": 50092,
-      "name": "Fiend Fire",
-      "path": "loot/50092"
-    },
-    {
-      "id": 50093,
-      "name": "Jester",
-      "path": "loot/50093"
-    },
-    {
-      "id": 50094,
-      "name": "Witch",
-      "path": "loot/50094"
-    },
-    {
-      "id": 50095,
-      "name": "Bible Thump!",
-      "path": "loot/50095"
-    },
-    {
-      "id": 50096,
-      "name": "Greed Butt!",
-      "path": "loot/50096"
-    },
-    {
-      "id": 50097,
-      "name": "Cow on a Trash Farm",
-      "path": "loot/50097"
-    },
-    {
-      "id": 50098,
-      "name": "Murder!",
-      "path": "loot/50098"
-    },
-    {
-      "id": 50099,
-      "name": "Blanks",
-      "path": "loot/50099"
-    },
-    {
-      "id": 50100,
-      "name": "Loot Card",
-      "path": "loot/50100"
-    },
-    {
-      "id": 50101,
-      "name": "Cheep Cheep Cheep!",
-      "path": "loot/50101"
-    },
-    {
-      "id": 50102,
       "name": "XVII. The Stars (Alt Art)",
-      "path": "loot/50102",
+      "path": "loot/50087",
       "alt": [
         50047
       ]
     },
     {
-      "id": 50103,
+      "id": 50088,
       "name": "Lost Soul (Alt Art)",
-      "path": "loot/50103",
+      "path": "loot/50088",
       "alt": [
         50029
       ]
     },
     {
-      "id": 50104,
+      "id": 50089,
       "name": "XIII. Death (Alt Art)",
-      "path": "loot/50104",
+      "path": "loot/50089",
       "alt": [
         50043
       ]
     },
     {
-      "id": 50105,
+      "id": 50090,
       "name": "Key",
-      "path": "loot/50105"
+      "path": "loot/50090"
     },
     {
-      "id": 50106,
+      "id": 50091,
       "name": "Horse Pills",
-      "path": "loot/50106"
+      "path": "loot/50091"
     },
     {
-      "id": 50107,
+      "id": 50092,
       "name": "Golden Trinket",
-      "path": "loot/50107"
+      "path": "loot/50092"
     },
     {
-      "id": 50108,
+      "id": 50093,
       "name": "Rainbow Tapeworm",
-      "path": "loot/50108"
+      "path": "loot/50093"
     }
   ]
 }
