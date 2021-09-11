@@ -1,0 +1,54 @@
+{
+  "bonus_soul": [
+    {
+      "id": 60001,
+      "name": "A Penny!",
+      "path": "bonus_soul/60001"
+    },
+    {
+      "id": 60002,
+      "name": "Soul of Greed",
+      "path": "bonus_soul/60002"
+    },
+    {
+      "id": 60003,
+      "name": "Soul of Gluttony",
+      "path": "bonus_soul/60003"
+    },
+    {
+      "id": 60004,
+      "name": "Soul of Guppy",
+      "path": "bonus_soul/60004"
+    },
+    {
+      "id": 60005,
+      "name": "Soul of Lust",
+      "path": "bonus_soul/60005"
+    },
+    {
+      "id": 60006,
+      "name": "Soul of Pride",
+      "path": "bonus_soul/60006"
+    },
+    {
+      "id": 60007,
+      "name": "Soul of Wrath",
+      "path": "bonus_soul/60007"
+    },
+    {
+      "id": 60008,
+      "name": "Soul of Envy",
+      "path": "bonus_soul/60008"
+    },
+    {
+      "id": 60009,
+      "name": "Soul of Sloth",
+      "path": "bonus_soul/60009"
+    },
+    {
+      "id": 60010,
+      "name": "Strawberry",
+      "path": "bonus_soul/60010"
+    }
+  ]
+}

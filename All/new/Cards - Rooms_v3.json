@@ -1,0 +1,54 @@
+{
+  "room": [
+    {
+      "id": 70001,
+      "name": "Beggar",
+      "path": "room/70001"
+    },
+    {
+      "id": 70002,
+      "name": "Battle Royale!!!!",
+      "path": "room/70002"
+    },
+    {
+      "id": 70003,
+      "name": "Blessing of Gluttony",
+      "path": "room/70003"
+    },
+    {
+      "id": 70004,
+      "name": "Slot Machine",
+      "path": "room/70004"
+    },
+    {
+      "id": 70005,
+      "name": "Social Goals",
+      "path": "room/70005"
+    },
+    {
+      "id": 70006,
+      "name": "Planetarium",
+      "path": "room/70006"
+    },
+    {
+      "id": 70007,
+      "name": "I am Error",
+      "path": "room/70007"
+    },
+    {
+      "id": 70008,
+      "name": "Mirror Room",
+      "path": "room/70008"
+    },
+    {
+      "id": 70009,
+      "name": "Rotgut",
+      "path": "room/70009"
+    },
+    {
+      "id": 70010,
+      "name": "The Isaac of Isaac: ReIsaac",
+      "path": "room/70010"
+    }
+  ]
+}

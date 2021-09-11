@@ -1,0 +1,1321 @@
+{
+  "character": [
+    {
+      "id": 10001,
+      "name": "Isaac",
+      "path": "character/10001",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "alt": [
+        10070
+      ],
+      "related": [
+        20001
+      ]
+    },
+    {
+      "id": 10002,
+      "name": "Cain",
+      "path": "character/10002",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20002
+      ]
+    },
+    {
+      "id": 10003,
+      "name": "Maggy",
+      "path": "character/10003",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20003
+      ]
+    },
+    {
+      "id": 10004,
+      "name": "Judas",
+      "path": "character/10004",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "alt": [
+        10060
+      ],
+      "related": [
+        20004
+      ]
+    },
+    {
+      "id": 10005,
+      "name": "Samson",
+      "path": "character/10005",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20005
+      ]
+    },
+    {
+      "id": 10006,
+      "name": "Eve",
+      "path": "character/10006",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20006
+      ]
+    },
+    {
+      "id": 10007,
+      "name": "Lilith",
+      "path": "character/10007",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "alt": [
+        10066
+      ],
+      "related": [
+        20007
+      ]
+    },
+    {
+      "id": 10008,
+      "name": "Blue Baby",
+      "path": "character/10008",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "alt": [
+        10062
+      ],
+      "related": [
+        20008
+      ]
+    },
+    {
+      "id": 10009,
+      "name": "Lazarus",
+      "path": "character/10009",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20009
+      ]
+    },
+    {
+      "id": 10010,
+      "name": "The Forgotten",
+      "path": "character/10010",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "alt": [
+        10072
+      ],
+      "related": [
+        20010
+      ]
+    },
+    {
+      "id": 10011,
+      "name": "Eden",
+      "path": "character/10011",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "alt": [
+        "10067, 10068, 10074, 10076, 10077"
+      ]
+    },
+    {
+      "id": 10012,
+      "name": "The Lost",
+      "path": "character/10012",
+      "counters": [
+        {
+          "Health": 1
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "alt": [
+        10065
+      ],
+      "related": [
+        20011
+      ]
+    },
+    {
+      "id": 10013,
+      "name": "The Keeper",
+      "path": "character/10013",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "alt": [
+        10063
+      ],
+      "related": [
+        20012
+      ]
+    },
+    {
+      "id": 10014,
+      "name": "Azazel",
+      "path": "character/10014",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "alt": [
+        10071
+      ],
+      "related": [
+        20013
+      ]
+    },
+    {
+      "id": 10015,
+      "name": "Apollyon",
+      "path": "character/10015",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20014
+      ]
+    },
+    {
+      "id": 10016,
+      "name": "Guppy",
+      "path": "character/10016",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "alt": [
+        10069
+      ],
+      "related": [
+        20015
+      ]
+    },
+    {
+      "id": 10017,
+      "name": "Bum-bo",
+      "path": "character/10017",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20016
+      ]
+    },
+    {
+      "id": 10018,
+      "name": "Whore of Babylon",
+      "path": "character/10018",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20017
+      ]
+    },
+    {
+      "id": 10019,
+      "name": "Dark Judas",
+      "path": "character/10019",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20018
+      ]
+    },
+    {
+      "id": 10020,
+      "name": "Bethany",
+      "path": "character/10020",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20019
+      ]
+    },
+    {
+      "id": 10021,
+      "name": "Jacob & Esau",
+      "path": "character/10021",
+      "counters": [
+        {
+          "Health": 3
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20020
+      ]
+    },
+    {
+      "id": 10022,
+      "name": "The Broken",
+      "path": "character/10022",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20021
+      ]
+    },
+    {
+      "id": 10023,
+      "name": "The Hoarder",
+      "path": "character/10023",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20022
+      ]
+    },
+    {
+      "id": 10024,
+      "name": "The Dauntless",
+      "path": "character/10024",
+      "counters": [
+        {
+          "Health": 1
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20023
+      ]
+    },
+    {
+      "id": 10025,
+      "name": "The Deceiver",
+      "path": "character/10025",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20024
+      ]
+    },
+    {
+      "id": 10026,
+      "name": "The Savage",
+      "path": "character/10026",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20025
+      ]
+    },
+    {
+      "id": 10027,
+      "name": "The Curdled",
+      "path": "character/10027",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20026
+      ]
+    },
+    {
+      "id": 10028,
+      "name": "The Harlot",
+      "path": "character/10028",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "alt": [
+        10064
+      ],
+      "related": [
+        20027
+      ]
+    },
+    {
+      "id": 10029,
+      "name": "The Soiled",
+      "path": "character/10029",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20028
+      ]
+    },
+    {
+      "id": 10030,
+      "name": "The Enigma",
+      "path": "character/10030",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20029
+      ]
+    },
+    {
+      "id": 10031,
+      "name": "ɒmϱinƎ ǝʜT",
+      "path": "character/10031",
+      "counters": [
+        {
+          "Health": 1
+        },
+        {
+          "Attack": 2
+        }
+      ],
+      "related": [
+        20029
+      ]
+    },
+    {
+      "id": 10032,
+      "name": "The Fettered",
+      "path": "character/10032",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20030
+      ]
+    },
+    {
+      "id": 10033,
+      "name": "The Capricious",
+      "path": "character/10033",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "alt": [
+        10073
+      ],
+      "related": [
+        20031
+      ]
+    },
+    {
+      "id": 10034,
+      "name": "The Baleful",
+      "path": "character/10034",
+      "counters": [
+        {
+          "Health": 1
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20032
+      ]
+    },
+    {
+      "id": 10035,
+      "name": "The Miser",
+      "path": "character/10035",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20033
+      ]
+    },
+    {
+      "id": 10036,
+      "name": "The Benighted",
+      "path": "character/10036",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20034
+      ]
+    },
+    {
+      "id": 10037,
+      "name": "The Empty",
+      "path": "character/10037",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20035
+      ]
+    },
+    {
+      "id": 10038,
+      "name": "The Zealot",
+      "path": "character/10038",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20036
+      ]
+    },
+    {
+      "id": 10039,
+      "name": "The Deserter",
+      "path": "character/10039",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        "20037, 20038"
+      ]
+    },
+    {
+      "id": 10040,
+      "name": "Ash",
+      "path": "character/10040",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20039
+      ]
+    },
+    {
+      "id": 10041,
+      "name": "Guy Spelunky",
+      "path": "character/10041",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20040
+      ]
+    },
+    {
+      "id": 10042,
+      "name": "The Silent",
+      "path": "character/10042",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20041
+      ]
+    },
+    {
+      "id": 10043,
+      "name": "Captain Viridian",
+      "path": "character/10043",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20042
+      ]
+    },
+    {
+      "id": 10044,
+      "name": "The Knight",
+      "path": "character/10044",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20043
+      ]
+    },
+    {
+      "id": 10045,
+      "name": "Yung Venuz",
+      "path": "character/10045",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20044
+      ]
+    },
+    {
+      "id": 10046,
+      "name": "Pink Knight",
+      "path": "character/10046",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20045
+      ]
+    },
+    {
+      "id": 10047,
+      "name": "Boyfriend",
+      "path": "character/10047",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20046
+      ]
+    },
+    {
+      "id": 10048,
+      "name": "Psycho Goreman",
+      "path": "character/10048",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 2
+        }
+      ],
+      "related": [
+        20047
+      ]
+    },
+    {
+      "id": 10049,
+      "name": "Blind Johnny",
+      "path": "character/10049",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20048
+      ]
+    },
+    {
+      "id": 10050,
+      "name": "Salad Fingers",
+      "path": "character/10050",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20049
+      ]
+    },
+    {
+      "id": 10051,
+      "name": "Blue Archer",
+      "path": "character/10051",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20050
+      ]
+    },
+    {
+      "id": 10052,
+      "name": "Quote",
+      "path": "character/10052",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        "20051, 20052"
+      ]
+    },
+    {
+      "id": 10053,
+      "name": "Crewmate",
+      "path": "character/10053",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20053
+      ]
+    },
+    {
+      "id": 10054,
+      "name": "Bum-bo the Weird",
+      "path": "character/10054",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20054
+      ]
+    },
+    {
+      "id": 10055,
+      "name": "Steven",
+      "path": "character/10055",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20055
+      ]
+    },
+    {
+      "id": 10056,
+      "name": "Abe",
+      "path": "character/10056",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20056
+      ]
+    },
+    {
+      "id": 10057,
+      "name": "Johnny",
+      "path": "character/10057",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20057
+      ]
+    },
+    {
+      "id": 10058,
+      "name": "Baba",
+      "path": "character/10058",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20058
+      ]
+    },
+    {
+      "id": 10059,
+      "name": "Edmund",
+      "path": "character/10059",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20059
+      ]
+    },
+    {
+      "id": 10060,
+      "name": "Judas (Alt Art)",
+      "path": "character/10060",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "alt": [
+        10004
+      ],
+      "related": [
+        20004
+      ]
+    },
+    {
+      "id": 10061,
+      "name": "The Savage (Alt Art)",
+      "path": "character/10061",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "alt": [
+        10026
+      ],
+      "related": [
+        20025
+      ]
+    },
+    {
+      "id": 10062,
+      "name": "Blue Baby (Alt Art)",
+      "path": "character/10062",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "alt": [
+        10008
+      ],
+      "related": [
+        20008
+      ]
+    },
+    {
+      "id": 10063,
+      "name": "The Keeper (Alt Art)",
+      "path": "character/10063",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "alt": [
+        10013
+      ],
+      "related": [
+        20012
+      ]
+    },
+    {
+      "id": 10064,
+      "name": "The Harlot (Alt Art)",
+      "path": "character/10064",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "alt": [
+        10028
+      ],
+      "related": [
+        20027
+      ]
+    },
+    {
+      "id": 10065,
+      "name": "The Lost (Alt Art)",
+      "path": "character/10065",
+      "counters": [
+        {
+          "Health": 1
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "alt": [
+        10012
+      ],
+      "related": [
+        20011
+      ]
+    },
+    {
+      "id": 10066,
+      "name": "Lilith (Alt Art)",
+      "path": "character/10066",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "alt": [
+        10007
+      ],
+      "related": [
+        20007
+      ]
+    },
+    {
+      "id": 10067,
+      "name": "Eden (Alt Art 1)",
+      "path": "character/10067",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "alt": [
+        "10011, 10068, 10074, 10076, 10077"
+      ]
+    },
+    {
+      "id": 10068,
+      "name": "Eden (Alt Art 2)",
+      "path": "character/10068",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "alt": [
+        "10011, 10067, 10074, 10076, 10077"
+      ]
+    },
+    {
+      "id": 10069,
+      "name": "Guppy (Alt Art)",
+      "path": "character/10069",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "alt": [
+        10016
+      ],
+      "related": [
+        20015
+      ]
+    },
+    {
+      "id": 10070,
+      "name": "Isaac (Alt Art)",
+      "path": "character/10070",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "alt": [
+        10001
+      ],
+      "related": [
+        20001
+      ]
+    },
+    {
+      "id": 10071,
+      "name": "Azazel (Alt Art)",
+      "path": "character/10071",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "alt": [
+        10014
+      ],
+      "related": [
+        20013
+      ]
+    },
+    {
+      "id": 10072,
+      "name": "The Forgotten (Alt Art)",
+      "path": "character/10072",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "alt": [
+        10010
+      ],
+      "related": [
+        20010
+      ]
+    },
+    {
+      "id": 10073,
+      "name": "The Capricious (Alt Art)",
+      "path": "character/10073",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "alt": [
+        10033
+      ],
+      "related": [
+        20031
+      ]
+    },
+    {
+      "id": 10074,
+      "name": "Eden (Alt Art 3)",
+      "path": "character/10074",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "alt": [
+        "10011, 10067, 10068, 10076, 10077"
+      ]
+    },
+    {
+      "id": 10075,
+      "name": "Flash Isaac",
+      "path": "character/10075",
+      "counters": [
+        {
+          "Health": -1
+        },
+        {
+          "Attack": -1
+        }
+      ],
+      "related": [
+        10060
+      ]
+    },
+    {
+      "id": 10076,
+      "name": "Eden (Promo 1)",
+      "path": "character/10076",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "alt": [
+        "10011, 10067, 10068, 10074, 10077"
+      ]
+    },
+    {
+      "id": 10077,
+      "name": "Eden (Promo 2)",
+      "path": "character/10077",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "alt": [
+        "10011, 10067, 10068, 10074, 10076"
+      ]
+    },
+    {
+      "id": 10078,
+      "name": "Tapeworm",
+      "path": "character/10078",
+      "counters": [
+        {
+          "Health": 2
+        },
+        {
+          "Attack": 1
+        }
+      ],
+      "related": [
+        20061
+      ]
+    }
+  ]
+}

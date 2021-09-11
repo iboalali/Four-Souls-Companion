@@ -1,0 +1,20 @@
+{
+  "the_beast": [
+    {
+      "id": 80001,
+      "name": "The Beast",
+      "path": "the_beast/80001",
+      "alt": [
+        80002
+      ]
+    },
+    {
+      "id": 80002,
+      "name": "The Beast (Alt Art)",
+      "path": "the_beast/80002",
+      "alt": [
+        80001
+      ]
+    }
+  ]
+}
