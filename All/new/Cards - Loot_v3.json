@@ -2,447 +2,360 @@
   "loot": [
     {
       "id": 50001,
-      "name": "A Penny!",
-      "path": "loot/50001"
+      "name": "A Penny!"
     },
     {
       "id": 50002,
-      "name": "2 Cents!",
-      "path": "loot/50002"
+      "name": "2 Cents!"
     },
     {
       "id": 50003,
-      "name": "3 Cents!",
-      "path": "loot/50003"
+      "name": "3 Cents!"
     },
     {
       "id": 50004,
-      "name": "4 Cents!",
-      "path": "loot/50004"
+      "name": "4 Cents!"
     },
     {
       "id": 50005,
-      "name": "A Nickel!",
-      "path": "loot/50005"
+      "name": "A Nickel!"
     },
     {
       "id": 50006,
-      "name": "A Dime!!",
-      "path": "loot/50006"
+      "name": "A Dime!!"
     },
     {
       "id": 50007,
-      "name": "Butter Bean!",
-      "path": "loot/50007"
+      "name": "Butter Bean!"
     },
     {
       "id": 50008,
-      "name": "Pills!",
-      "path": "loot/50008"
+      "name": "Pills!"
     },
     {
       "id": 50009,
-      "name": "Pills!",
-      "path": "loot/50009"
+      "name": "Pills!"
     },
     {
       "id": 50010,
-      "name": "Pills!",
-      "path": "loot/50010"
+      "name": "Pills!"
     },
     {
       "id": 50011,
-      "name": "Bomb!",
-      "path": "loot/50011"
+      "name": "Bomb!"
     },
     {
       "id": 50012,
-      "name": "Gold Bomb!!",
-      "path": "loot/50012"
+      "name": "Gold Bomb!!"
     },
     {
       "id": 50013,
-      "name": "Lil Battery",
-      "path": "loot/50013"
+      "name": "Lil Battery"
     },
     {
       "id": 50014,
-      "name": "Mega Battery",
-      "path": "loot/50014"
+      "name": "Mega Battery"
     },
     {
       "id": 50015,
-      "name": "Dice Shard",
-      "path": "loot/50015"
+      "name": "Dice Shard"
     },
     {
       "id": 50016,
-      "name": "Soul Heart",
-      "path": "loot/50016"
+      "name": "Soul Heart"
     },
     {
       "id": 50017,
-      "name": "Blank Rune",
-      "path": "loot/50017"
+      "name": "Blank Rune"
     },
     {
       "id": 50018,
-      "name": "Dagaz",
-      "path": "loot/50018"
+      "name": "Dagaz"
     },
     {
       "id": 50019,
-      "name": "Ehwaz",
-      "path": "loot/50019"
+      "name": "Ehwaz"
     },
     {
       "id": 50020,
-      "name": "Bloody Penny",
-      "path": "loot/50020"
+      "name": "Bloody Penny"
     },
     {
       "id": 50021,
-      "name": "Swallowed Penny",
-      "path": "loot/50021"
+      "name": "Swallowed Penny"
     },
     {
       "id": 50022,
-      "name": "Counterfeit Penny",
-      "path": "loot/50022"
+      "name": "Counterfeit Penny"
     },
     {
       "id": 50023,
-      "name": "Cain's Eye",
-      "path": "loot/50023"
+      "name": "Cain's Eye"
     },
     {
       "id": 50024,
-      "name": "Broken Ankh",
-      "path": "loot/50024"
+      "name": "Broken Ankh"
     },
     {
       "id": 50025,
-      "name": "Curved Horn",
-      "path": "loot/50025"
+      "name": "Curved Horn"
     },
     {
       "id": 50026,
-      "name": "Purple Heart",
-      "path": "loot/50026"
+      "name": "Purple Heart"
     },
     {
       "id": 50027,
-      "name": "Golden Horseshoe",
-      "path": "loot/50027"
+      "name": "Golden Horseshoe"
     },
     {
       "id": 50028,
-      "name": "Guppy's Hairball",
-      "path": "loot/50028"
+      "name": "Guppy's Hairball"
     },
     {
       "id": 50029,
       "name": "Lost Soul",
-      "path": "loot/50029",
       "alt": [
         50103
       ]
     },
     {
       "id": 50030,
-      "name": "0.  The Fool",
-      "path": "loot/50030"
+      "name": "0.  The Fool"
     },
     {
       "id": 50031,
-      "name": "I. The Magician",
-      "path": "loot/50031"
+      "name": "I. The Magician"
     },
     {
       "id": 50032,
-      "name": "II. The High Priestess",
-      "path": "loot/50032"
+      "name": "II. The High Priestess"
     },
     {
       "id": 50033,
-      "name": "III. The Empress",
-      "path": "loot/50033"
+      "name": "III. The Empress"
     },
     {
       "id": 50034,
-      "name": "IV. The Emperor",
-      "path": "loot/50034"
+      "name": "IV. The Emperor"
     },
     {
       "id": 50035,
-      "name": "V. The Hierophant",
-      "path": "loot/50035"
+      "name": "V. The Hierophant"
     },
     {
       "id": 50036,
-      "name": "VI. The Lovers",
-      "path": "loot/50036"
+      "name": "VI. The Lovers"
     },
     {
       "id": 50037,
-      "name": "VII. The Chariot",
-      "path": "loot/50037"
+      "name": "VII. The Chariot"
     },
     {
       "id": 50038,
-      "name": "VIII. Justice",
-      "path": "loot/50038"
+      "name": "VIII. Justice"
     },
     {
       "id": 50039,
-      "name": "IX. The Hermit",
-      "path": "loot/50039"
+      "name": "IX. The Hermit"
     },
     {
       "id": 50040,
-      "name": "X. Wheel of Fortune",
-      "path": "loot/50040"
+      "name": "X. Wheel of Fortune"
     },
     {
       "id": 50041,
-      "name": "XI. Strength",
-      "path": "loot/50041"
+      "name": "XI. Strength"
     },
     {
       "id": 50042,
-      "name": "XII. The Hanged Man",
-      "path": "loot/50042"
+      "name": "XII. The Hanged Man"
     },
     {
       "id": 50043,
       "name": "XIII. Death",
-      "path": "loot/50043",
       "alt": [
         50104
       ]
     },
     {
       "id": 50044,
-      "name": "XIV. Temperance",
-      "path": "loot/50044"
+      "name": "XIV. Temperance"
     },
     {
       "id": 50045,
-      "name": "XV. The Devil",
-      "path": "loot/50045"
+      "name": "XV. The Devil"
     },
     {
       "id": 50046,
-      "name": "XVI. The Tower",
-      "path": "loot/50046"
+      "name": "XVI. The Tower"
     },
     {
       "id": 50047,
       "name": "XVII. The Stars",
-      "path": "loot/50047",
       "alt": [
         50102
       ]
     },
     {
       "id": 50048,
-      "name": "XVIII. The Moon",
-      "path": "loot/50048"
+      "name": "XVIII. The Moon"
     },
     {
       "id": 50049,
-      "name": "XIX. The Sun",
-      "path": "loot/50049"
+      "name": "XIX. The Sun"
     },
     {
       "id": 50050,
-      "name": "XX. Judgement",
-      "path": "loot/50050"
+      "name": "XX. Judgement"
     },
     {
       "id": 50051,
-      "name": "XXI. The World",
-      "path": "loot/50051"
+      "name": "XXI. The World"
     },
     {
       "id": 50052,
-      "name": "Charged Penny",
-      "path": "loot/50052"
+      "name": "Charged Penny"
     },
     {
       "id": 50053,
-      "name": "Joker",
-      "path": "loot/50053"
+      "name": "Joker"
     },
     {
       "id": 50054,
-      "name": "Holy Card",
-      "path": "loot/50054"
+      "name": "Holy Card"
     },
     {
       "id": 50055,
-      "name": "Two of Diamonds",
-      "path": "loot/50055"
+      "name": "Two of Diamonds"
     },
     {
       "id": 50056,
-      "name": "A Sack",
-      "path": "loot/50056"
+      "name": "A Sack"
     },
     {
       "id": 50057,
-      "name": "Credit Card",
-      "path": "loot/50057"
+      "name": "Credit Card"
     },
     {
       "id": 50058,
-      "name": "Jera",
-      "path": "loot/50058"
+      "name": "Jera"
     },
     {
       "id": 50059,
-      "name": "Pills!",
-      "path": "loot/50059"
+      "name": "Pills!"
     },
     {
       "id": 50060,
-      "name": "Pink Eye",
-      "path": "loot/50060"
+      "name": "Pink Eye"
     },
     {
       "id": 50061,
-      "name": "Cancer",
-      "path": "loot/50061"
+      "name": "Cancer"
     },
     {
       "id": 50062,
-      "name": "Perthro",
-      "path": "loot/50062"
+      "name": "Perthro"
     },
     {
       "id": 50063,
-      "name": "Ansuz",
-      "path": "loot/50063"
+      "name": "Ansuz"
     },
     {
       "id": 50064,
-      "name": "Black Rune",
-      "path": "loot/50064"
+      "name": "Black Rune"
     },
     {
       "id": 50065,
-      "name": "Tape Worm",
-      "path": "loot/50065"
+      "name": "Tape Worm"
     },
     {
       "id": 50066,
-      "name": "AAA Battery",
-      "path": "loot/50066"
+      "name": "AAA Battery"
     },
     {
       "id": 50067,
-      "name": "Poker Chip",
-      "path": "loot/50067"
+      "name": "Poker Chip"
     },
     {
       "id": 50068,
-      "name": "The Left Hand",
-      "path": "loot/50068"
+      "name": "The Left Hand"
     },
     {
       "id": 50069,
-      "name": "Pills!",
-      "path": "loot/50069"
+      "name": "Pills!"
     },
     {
       "id": 50070,
-      "name": "Pills!",
-      "path": "loot/50070"
+      "name": "Pills!"
     },
     {
       "id": 50071,
-      "name": "Pills!",
-      "path": "loot/50071"
+      "name": "Pills!"
     },
     {
       "id": 50072,
-      "name": "? Card",
-      "path": "loot/50072"
+      "name": "? Card"
     },
     {
       "id": 50073,
-      "name": "Get Out of Jail Card",
-      "path": "loot/50073"
+      "name": "Get Out of Jail Card"
     },
     {
       "id": 50074,
-      "name": "Gold Key",
-      "path": "loot/50074"
+      "name": "Gold Key"
     },
     {
       "id": 50075,
-      "name": "Chunk of Amber",
-      "path": "loot/50075"
+      "name": "Chunk of Amber"
     },
     {
       "id": 50076,
-      "name": "Demon Form",
-      "path": "loot/50076"
+      "name": "Demon Form"
     },
     {
       "id": 50077,
-      "name": "Fiend Fire",
-      "path": "loot/50077"
+      "name": "Fiend Fire"
     },
     {
       "id": 50078,
-      "name": "Jester",
-      "path": "loot/50078"
+      "name": "Jester"
     },
     {
       "id": 50079,
-      "name": "Witch",
-      "path": "loot/50079"
+      "name": "Witch"
     },
     {
       "id": 50080,
-      "name": "Bible Thump!",
-      "path": "loot/50080"
+      "name": "Bible Thump!"
     },
     {
       "id": 50081,
-      "name": "Greed Butt!",
-      "path": "loot/50081"
+      "name": "Greed Butt!"
     },
     {
       "id": 50082,
-      "name": "Cow on a Trash Farm",
-      "path": "loot/50082"
+      "name": "Cow on a Trash Farm"
     },
     {
       "id": 50083,
-      "name": "Murder!",
-      "path": "loot/50083"
+      "name": "Murder!"
     },
     {
       "id": 50084,
-      "name": "Blanks",
-      "path": "loot/50084"
+      "name": "Blanks"
     },
     {
       "id": 50085,
-      "name": "Loot Card",
-      "path": "loot/50085"
+      "name": "Loot Card"
     },
     {
       "id": 50086,
-      "name": "Cheep Cheep Cheep!",
-      "path": "loot/50086"
+      "name": "Cheep Cheep Cheep!"
     },
     {
       "id": 50087,
       "name": "XVII. The Stars (Alt Art)",
-      "path": "loot/50087",
       "alt": [
         50047
       ]
@@ -450,7 +363,6 @@
     {
       "id": 50088,
       "name": "Lost Soul (Alt Art)",
-      "path": "loot/50088",
       "alt": [
         50029
       ]
@@ -458,30 +370,25 @@
     {
       "id": 50089,
       "name": "XIII. Death (Alt Art)",
-      "path": "loot/50089",
       "alt": [
         50043
       ]
     },
     {
       "id": 50090,
-      "name": "Key",
-      "path": "loot/50090"
+      "name": "Key"
     },
     {
       "id": 50091,
-      "name": "Horse Pills",
-      "path": "loot/50091"
+      "name": "Horse Pills"
     },
     {
       "id": 50092,
-      "name": "Golden Trinket",
-      "path": "loot/50092"
+      "name": "Golden Trinket"
     },
     {
       "id": 50093,
-      "name": "Rainbow Tapeworm",
-      "path": "loot/50093"
+      "name": "Rainbow Tapeworm"
     }
   ]
 }

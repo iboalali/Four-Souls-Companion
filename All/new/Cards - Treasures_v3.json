@@ -2,897 +2,720 @@
   "treasure": [
     {
       "id": 40001,
-      "name": "The Relic",
-      "path": "treasure/40001"
+      "name": "The Relic"
     },
     {
       "id": 40002,
-      "name": "Dad's Lost Coin",
-      "path": "treasure/40002"
+      "name": "Dad's Lost Coin"
     },
     {
       "id": 40003,
-      "name": "Finger!",
-      "path": "treasure/40003"
+      "name": "Finger!"
     },
     {
       "id": 40004,
-      "name": "Charged Baby",
-      "path": "treasure/40004"
+      "name": "Charged Baby"
     },
     {
       "id": 40005,
-      "name": "The D10",
-      "path": "treasure/40005"
+      "name": "The D10"
     },
     {
       "id": 40006,
-      "name": "Tarot Cloth",
-      "path": "treasure/40006"
+      "name": "Tarot Cloth"
     },
     {
       "id": 40007,
-      "name": "Mom's Box",
-      "path": "treasure/40007"
+      "name": "Mom's Box"
     },
     {
       "id": 40008,
-      "name": "Spider Mod",
-      "path": "treasure/40008"
+      "name": "Spider Mod"
     },
     {
       "id": 40009,
-      "name": "Eye of Greed",
-      "path": "treasure/40009"
+      "name": "Eye of Greed"
     },
     {
       "id": 40010,
-      "name": "Mom's Razor",
-      "path": "treasure/40010"
+      "name": "Mom's Razor"
     },
     {
       "id": 40011,
-      "name": "Cheese Grater",
-      "path": "treasure/40011"
+      "name": "Cheese Grater"
     },
     {
       "id": 40012,
-      "name": "Dead Bird",
-      "path": "treasure/40012"
+      "name": "Dead Bird"
     },
     {
       "id": 40013,
-      "name": "Dinner",
-      "path": "treasure/40013"
+      "name": "Dinner"
     },
     {
       "id": 40014,
-      "name": "Breakfast",
-      "path": "treasure/40014"
+      "name": "Breakfast"
     },
     {
       "id": 40015,
-      "name": "Synthoil",
-      "path": "treasure/40015"
+      "name": "Synthoil"
     },
     {
       "id": 40016,
-      "name": "Meat!",
-      "path": "treasure/40016"
+      "name": "Meat!"
     },
     {
       "id": 40017,
-      "name": "Polydactyly",
-      "path": "treasure/40017"
+      "name": "Polydactyly"
     },
     {
       "id": 40018,
-      "name": "Belly Button",
-      "path": "treasure/40018"
+      "name": "Belly Button"
     },
     {
       "id": 40019,
       "name": "Brimstone",
-      "path": "treasure/40019",
       "alt": [
         40178
       ]
     },
     {
       "id": 40020,
-      "name": "Ipecac",
-      "path": "treasure/40020"
+      "name": "Ipecac"
     },
     {
       "id": 40021,
-      "name": "Mom's Purse",
-      "path": "treasure/40021"
+      "name": "Mom's Purse"
     },
     {
       "id": 40022,
-      "name": "Mom's Coin Purse",
-      "path": "treasure/40022"
+      "name": "Mom's Coin Purse"
     },
     {
       "id": 40023,
-      "name": "There's Options",
-      "path": "treasure/40023"
+      "name": "There's Options"
     },
     {
       "id": 40024,
-      "name": "Champion Belt",
-      "path": "treasure/40024"
+      "name": "Champion Belt"
     },
     {
       "id": 40025,
-      "name": "Monstro's Tooth",
-      "path": "treasure/40025"
+      "name": "Monstro's Tooth"
     },
     {
       "id": 40026,
-      "name": "Dry Baby",
-      "path": "treasure/40026"
+      "name": "Dry Baby"
     },
     {
       "id": 40027,
-      "name": "Goat Head",
-      "path": "treasure/40027"
+      "name": "Goat Head"
     },
     {
       "id": 40028,
-      "name": "The Blue Map",
-      "path": "treasure/40028"
+      "name": "The Blue Map"
     },
     {
       "id": 40029,
-      "name": "The Compass",
-      "path": "treasure/40029"
+      "name": "The Compass"
     },
     {
       "id": 40030,
-      "name": "The Map",
-      "path": "treasure/40030"
+      "name": "The Map"
     },
     {
       "id": 40031,
-      "name": "Fanny Pack",
-      "path": "treasure/40031"
+      "name": "Fanny Pack"
     },
     {
       "id": 40032,
-      "name": "The Habit",
-      "path": "treasure/40032"
+      "name": "The Habit"
     },
     {
       "id": 40033,
-      "name": "Cambion Conception",
-      "path": "treasure/40033"
+      "name": "Cambion Conception"
     },
     {
       "id": 40034,
-      "name": "Greed's Gullet",
-      "path": "treasure/40034"
+      "name": "Greed's Gullet"
     },
     {
       "id": 40035,
-      "name": "Suicide King",
-      "path": "treasure/40035"
+      "name": "Suicide King"
     },
     {
       "id": 40036,
-      "name": "Trinity Shield",
-      "path": "treasure/40036"
+      "name": "Trinity Shield"
     },
     {
       "id": 40037,
-      "name": "Steamy Sale!",
-      "path": "treasure/40037"
+      "name": "Steamy Sale!"
     },
     {
       "id": 40038,
-      "name": "Shadow",
-      "path": "treasure/40038"
+      "name": "Shadow"
     },
     {
       "id": 40039,
-      "name": "Shiny Rock",
-      "path": "treasure/40039"
+      "name": "Shiny Rock"
     },
     {
       "id": 40040,
-      "name": "The Midas Touch",
-      "path": "treasure/40040"
+      "name": "The Midas Touch"
     },
     {
       "id": 40041,
-      "name": "Eden's Blessing",
-      "path": "treasure/40041"
+      "name": "Eden's Blessing"
     },
     {
       "id": 40042,
-      "name": "The Polaroid",
-      "path": "treasure/40042"
+      "name": "The Polaroid"
     },
     {
       "id": 40043,
-      "name": "Starter Deck",
-      "path": "treasure/40043"
+      "name": "Starter Deck"
     },
     {
       "id": 40044,
-      "name": "The Chest",
-      "path": "treasure/40044"
+      "name": "The Chest"
     },
     {
       "id": 40045,
-      "name": "Restock",
-      "path": "treasure/40045"
+      "name": "Restock"
     },
     {
       "id": 40046,
-      "name": "Dark Bum",
-      "path": "treasure/40046"
+      "name": "Dark Bum"
     },
     {
       "id": 40047,
-      "name": "Empty Vessel",
-      "path": "treasure/40047"
+      "name": "Empty Vessel"
     },
     {
       "id": 40048,
-      "name": "Bum-bo!",
-      "path": "treasure/40048"
+      "name": "Bum-bo!"
     },
     {
       "id": 40049,
-      "name": "Sacred Heart",
-      "path": "treasure/40049"
+      "name": "Sacred Heart"
     },
     {
       "id": 40050,
-      "name": "Curse of the Tower",
-      "path": "treasure/40050"
+      "name": "Curse of the Tower"
     },
     {
       "id": 40051,
-      "name": "Baby Haunt",
-      "path": "treasure/40051"
+      "name": "Baby Haunt"
     },
     {
       "id": 40052,
-      "name": "Daddy Haunt",
-      "path": "treasure/40052"
+      "name": "Daddy Haunt"
     },
     {
       "id": 40053,
-      "name": "Bob's Brain",
-      "path": "treasure/40053"
+      "name": "Bob's Brain"
     },
     {
       "id": 40054,
-      "name": "Two of Clubs",
-      "path": "treasure/40054"
+      "name": "Two of Clubs"
     },
     {
       "id": 40055,
-      "name": "Mr. Boom",
-      "path": "treasure/40055"
+      "name": "Mr. Boom"
     },
     {
       "id": 40056,
-      "name": "Tech X",
-      "path": "treasure/40056"
+      "name": "Tech X"
     },
     {
       "id": 40057,
-      "name": "Razor Blade",
-      "path": "treasure/40057"
+      "name": "Razor Blade"
     },
     {
       "id": 40058,
-      "name": "Mini Mush",
-      "path": "treasure/40058"
+      "name": "Mini Mush"
     },
     {
       "id": 40059,
-      "name": "Lucky Foot",
-      "path": "treasure/40059"
+      "name": "Lucky Foot"
     },
     {
       "id": 40060,
-      "name": "Spoon Bender",
-      "path": "treasure/40060"
+      "name": "Spoon Bender"
     },
     {
       "id": 40061,
-      "name": "Flush!",
-      "path": "treasure/40061"
+      "name": "Flush!"
     },
     {
       "id": 40062,
-      "name": "Monster Manual",
-      "path": "treasure/40062"
+      "name": "Monster Manual"
     },
     {
       "id": 40063,
-      "name": "The Shovel",
-      "path": "treasure/40063"
+      "name": "The Shovel"
     },
     {
       "id": 40064,
-      "name": "The D20",
-      "path": "treasure/40064"
+      "name": "The D20"
     },
     {
       "id": 40065,
-      "name": "Potato Peeler",
-      "path": "treasure/40065"
+      "name": "Potato Peeler"
     },
     {
       "id": 40066,
-      "name": "Sack Head",
-      "path": "treasure/40066"
+      "name": "Sack Head"
     },
     {
       "id": 40067,
-      "name": "Bum Friend",
-      "path": "treasure/40067"
+      "name": "Bum Friend"
     },
     {
       "id": 40068,
-      "name": "Compost",
-      "path": "treasure/40068"
+      "name": "Compost"
     },
     {
       "id": 40069,
-      "name": "Diplopia",
-      "path": "treasure/40069"
+      "name": "Diplopia"
     },
     {
       "id": 40070,
-      "name": "The Battery",
-      "path": "treasure/40070"
+      "name": "The Battery"
     },
     {
       "id": 40071,
-      "name": "Blank Card",
-      "path": "treasure/40071"
+      "name": "Blank Card"
     },
     {
       "id": 40072,
-      "name": "Placebo",
-      "path": "treasure/40072"
+      "name": "Placebo"
     },
     {
       "id": 40073,
-      "name": "Mom's Bra",
-      "path": "treasure/40073"
+      "name": "Mom's Bra"
     },
     {
       "id": 40074,
-      "name": "No!",
-      "path": "treasure/40074"
+      "name": "No!"
     },
     {
       "id": 40075,
-      "name": "Host Hat",
-      "path": "treasure/40075"
+      "name": "Host Hat"
     },
     {
       "id": 40076,
-      "name": "The Poop",
-      "path": "treasure/40076"
+      "name": "The Poop"
     },
     {
       "id": 40077,
-      "name": "Decoy",
-      "path": "treasure/40077"
+      "name": "Decoy"
     },
     {
       "id": 40078,
-      "name": "Sack of Pennies",
-      "path": "treasure/40078"
+      "name": "Sack of Pennies"
     },
     {
       "id": 40079,
-      "name": "Jawbone",
-      "path": "treasure/40079"
+      "name": "Jawbone"
     },
     {
       "id": 40080,
-      "name": "Boomerang",
-      "path": "treasure/40080"
+      "name": "Boomerang"
     },
     {
       "id": 40081,
-      "name": "Contract from Below",
-      "path": "treasure/40081"
+      "name": "Contract from Below"
     },
     {
       "id": 40082,
       "name": "Godhead",
-      "path": "treasure/40082",
       "alt": [
         40177
       ]
     },
     {
       "id": 40083,
-      "name": "Modeling Clay",
-      "path": "treasure/40083"
+      "name": "Modeling Clay"
     },
     {
       "id": 40084,
-      "name": "The D100",
-      "path": "treasure/40084"
+      "name": "The D100"
     },
     {
       "id": 40085,
-      "name": "Chaos",
-      "path": "treasure/40085"
+      "name": "Chaos"
     },
     {
       "id": 40086,
-      "name": "Remote Detonator",
-      "path": "treasure/40086"
+      "name": "Remote Detonator"
     },
     {
       "id": 40087,
-      "name": "Crystal Ball",
-      "path": "treasure/40087"
+      "name": "Crystal Ball"
     },
     {
       "id": 40088,
-      "name": "Mystery Sack",
-      "path": "treasure/40088"
+      "name": "Mystery Sack"
     },
     {
       "id": 40089,
-      "name": "Donation Machine",
-      "path": "treasure/40089"
+      "name": "Donation Machine"
     },
     {
       "id": 40090,
-      "name": "Book of Sin",
-      "path": "treasure/40090"
+      "name": "Book of Sin"
     },
     {
       "id": 40091,
-      "name": "Glass Cannon",
-      "path": "treasure/40091"
+      "name": "Glass Cannon"
     },
     {
       "id": 40092,
-      "name": "Mom's Shovel",
-      "path": "treasure/40092"
+      "name": "Mom's Shovel"
     },
     {
       "id": 40093,
-      "name": "Chaos Card",
-      "path": "treasure/40093"
+      "name": "Chaos Card"
     },
     {
       "id": 40094,
-      "name": "Box!",
-      "path": "treasure/40094"
+      "name": "Box!"
     },
     {
       "id": 40095,
-      "name": "Pandora's Box",
-      "path": "treasure/40095"
+      "name": "Pandora's Box"
     },
     {
       "id": 40096,
-      "name": "The D4",
-      "path": "treasure/40096"
+      "name": "The D4"
     },
     {
       "id": 40097,
-      "name": "Battery Bum",
-      "path": "treasure/40097"
+      "name": "Battery Bum"
     },
     {
       "id": 40098,
-      "name": "Pay to Play",
-      "path": "treasure/40098"
+      "name": "Pay to Play"
     },
     {
       "id": 40099,
-      "name": "Golden Razor Blade",
-      "path": "treasure/40099"
+      "name": "Golden Razor Blade"
     },
     {
       "id": 40100,
-      "name": "Portable Slot Machine",
-      "path": "treasure/40100"
+      "name": "Portable Slot Machine"
     },
     {
       "id": 40101,
-      "name": "Smelter",
-      "path": "treasure/40101"
+      "name": "Smelter"
     },
     {
       "id": 40102,
-      "name": "The Dead Cat",
-      "path": "treasure/40102"
+      "name": "The Dead Cat"
     },
     {
       "id": 40103,
-      "name": "Guppy's Head",
-      "path": "treasure/40103"
+      "name": "Guppy's Head"
     },
     {
       "id": 40104,
       "name": "Guppy's Paw",
-      "path": "treasure/40104",
       "alt": [
         40179
       ]
     },
     {
       "id": 40105,
-      "name": "Guppy's Collar",
-      "path": "treasure/40105"
+      "name": "Guppy's Collar"
     },
     {
       "id": 40106,
-      "name": "The Missing Page",
-      "path": "treasure/40106"
+      "name": "The Missing Page"
     },
     {
       "id": 40107,
-      "name": "More Options",
-      "path": "treasure/40107"
+      "name": "More Options"
     },
     {
       "id": 40108,
-      "name": "Skeleton Key",
-      "path": "treasure/40108"
+      "name": "Skeleton Key"
     },
     {
       "id": 40109,
-      "name": "Placenta",
-      "path": "treasure/40109"
+      "name": "Placenta"
     },
     {
       "id": 40110,
-      "name": "Mom's Knife",
-      "path": "treasure/40110"
+      "name": "Mom's Knife"
     },
     {
       "id": 40111,
-      "name": "Dad's Key",
-      "path": "treasure/40111"
+      "name": "Dad's Key"
     },
     {
       "id": 40112,
-      "name": "Succubus",
-      "path": "treasure/40112"
+      "name": "Succubus"
     },
     {
       "id": 40113,
-      "name": "Infamy",
-      "path": "treasure/40113"
+      "name": "Infamy"
     },
     {
       "id": 40114,
-      "name": "9 Volt",
-      "path": "treasure/40114"
+      "name": "9 Volt"
     },
     {
       "id": 40115,
-      "name": "Soy Milk",
-      "path": "treasure/40115"
+      "name": "Soy Milk"
     },
     {
       "id": 40116,
-      "name": "Guppy's Tail",
-      "path": "treasure/40116"
+      "name": "Guppy's Tail"
     },
     {
       "id": 40117,
-      "name": "Ouija Board",
-      "path": "treasure/40117"
+      "name": "Ouija Board"
     },
     {
       "id": 40118,
-      "name": "Fruitcake",
-      "path": "treasure/40118"
+      "name": "Fruitcake"
     },
     {
       "id": 40119,
-      "name": "I Can't Believe It's Not Butter Bean",
-      "path": "treasure/40119"
+      "name": "I Can't Believe It's Not Butter Bean"
     },
     {
       "id": 40120,
-      "name": "Library Card",
-      "path": "treasure/40120"
+      "name": "Library Card"
     },
     {
       "id": 40121,
-      "name": "The Bible",
-      "path": "treasure/40121"
+      "name": "The Bible"
     },
     {
       "id": 40122,
-      "name": "Crooked Penny",
-      "path": "treasure/40122"
+      "name": "Crooked Penny"
     },
     {
       "id": 40123,
-      "name": "The Butter Bean",
-      "path": "treasure/40123"
+      "name": "The Butter Bean"
     },
     {
       "id": 40124,
-      "name": "Lemon Mishap",
-      "path": "treasure/40124"
+      "name": "Lemon Mishap"
     },
     {
       "id": 40125,
-      "name": "Plan C",
-      "path": "treasure/40125"
+      "name": "Plan C"
     },
     {
       "id": 40126,
-      "name": "Polyphemus",
-      "path": "treasure/40126"
+      "name": "Polyphemus"
     },
     {
       "id": 40127,
-      "name": "The Wiz",
-      "path": "treasure/40127"
+      "name": "The Wiz"
     },
     {
       "id": 40128,
-      "name": "Euthanasia",
-      "path": "treasure/40128"
+      "name": "Euthanasia"
     },
     {
       "id": 40129,
-      "name": "Head of the Keeper",
-      "path": "treasure/40129"
+      "name": "Head of the Keeper"
     },
     {
       "id": 40130,
-      "name": "Cursed Eye",
-      "path": "treasure/40130"
+      "name": "Cursed Eye"
     },
     {
       "id": 40131,
-      "name": "Mom's Eye Shadow",
-      "path": "treasure/40131"
+      "name": "Mom's Eye Shadow"
     },
     {
       "id": 40132,
-      "name": "Lard",
-      "path": "treasure/40132"
+      "name": "Lard"
     },
     {
       "id": 40133,
-      "name": "Rubber Cement",
-      "path": "treasure/40133"
+      "name": "Rubber Cement"
     },
     {
       "id": 40134,
-      "name": "P.H.D.",
-      "path": "treasure/40134"
+      "name": "P.H.D."
     },
     {
       "id": 40135,
-      "name": "Telepathy for Dummies",
-      "path": "treasure/40135"
+      "name": "Telepathy for Dummies"
     },
     {
       "id": 40136,
-      "name": "Daddy Long Legs",
-      "path": "treasure/40136"
+      "name": "Daddy Long Legs"
     },
     {
       "id": 40137,
-      "name": "Libra",
-      "path": "treasure/40137"
+      "name": "Libra"
     },
     {
       "id": 40138,
-      "name": "Abaddon",
-      "path": "treasure/40138"
+      "name": "Abaddon"
     },
     {
       "id": 40139,
-      "name": "Guppy's Eye",
-      "path": "treasure/40139"
+      "name": "Guppy's Eye"
     },
     {
       "id": 40140,
-      "name": "Mama Haunt",
-      "path": "treasure/40140"
+      "name": "Mama Haunt"
     },
     {
       "id": 40141,
-      "name": "Hourglass",
-      "path": "treasure/40141"
+      "name": "Hourglass"
     },
     {
       "id": 40142,
-      "name": "Game Breaking Bug!",
-      "path": "treasure/40142"
+      "name": "Game Breaking Bug!"
     },
     {
       "id": 40143,
-      "name": "1-Up",
-      "path": "treasure/40143"
+      "name": "1-Up"
     },
     {
       "id": 40144,
-      "name": "Smart Fly",
-      "path": "treasure/40144"
+      "name": "Smart Fly"
     },
     {
       "id": 40145,
-      "name": "20/20",
-      "path": "treasure/40145"
+      "name": "20/20"
     },
     {
       "id": 40146,
-      "name": "Rainbow Baby",
-      "path": "treasure/40146"
+      "name": "Rainbow Baby"
     },
     {
       "id": 40147,
-      "name": "Magnet",
-      "path": "treasure/40147"
+      "name": "Magnet"
     },
     {
       "id": 40148,
-      "name": "Distant Admiration",
-      "path": "treasure/40148"
+      "name": "Distant Admiration"
     },
     {
       "id": 40149,
-      "name": "Black Candle",
-      "path": "treasure/40149"
+      "name": "Black Candle"
     },
     {
       "id": 40150,
-      "name": "Red Candle",
-      "path": "treasure/40150"
+      "name": "Red Candle"
     },
     {
       "id": 40151,
-      "name": "Mutant Spider",
-      "path": "treasure/40151"
+      "name": "Mutant Spider"
     },
     {
       "id": 40152,
-      "name": "Athame",
-      "path": "treasure/40152"
+      "name": "Athame"
     },
     {
       "id": 40153,
-      "name": "Forget Me Now",
-      "path": "treasure/40153"
+      "name": "Forget Me Now"
     },
     {
       "id": 40154,
-      "name": "Divorce Papers",
-      "path": "treasure/40154"
+      "name": "Divorce Papers"
     },
     {
       "id": 40155,
-      "name": "Head of Krampus",
-      "path": "treasure/40155"
+      "name": "Head of Krampus"
     },
     {
       "id": 40156,
-      "name": "Damocles",
-      "path": "treasure/40156"
+      "name": "Damocles"
     },
     {
       "id": 40157,
-      "name": "Alabaster Box",
-      "path": "treasure/40157"
+      "name": "Alabaster Box"
     },
     {
       "id": 40158,
-      "name": "Marbles",
-      "path": "treasure/40158"
+      "name": "Marbles"
     },
     {
       "id": 40159,
-      "name": "Birthright",
-      "path": "treasure/40159"
+      "name": "Birthright"
     },
     {
       "id": 40160,
-      "name": "Member Card",
-      "path": "treasure/40160"
+      "name": "Member Card"
     },
     {
       "id": 40161,
-      "name": "R Key",
-      "path": "treasure/40161"
+      "name": "R Key"
     },
     {
       "id": 40162,
-      "name": "Blood Puppy",
-      "path": "treasure/40162"
+      "name": "Blood Puppy"
     },
     {
       "id": 40163,
-      "name": "Red Key",
-      "path": "treasure/40163"
+      "name": "Red Key"
     },
     {
       "id": 40164,
-      "name": "Diogenes' Pot",
-      "path": "treasure/40164"
+      "name": "Diogenes' Pot"
     },
     {
       "id": 40165,
-      "name": "Newgrounds Tank",
-      "path": "treasure/40165"
+      "name": "Newgrounds Tank"
     },
     {
       "id": 40166,
-      "name": "Aubrey",
-      "path": "treasure/40166"
+      "name": "Aubrey"
     },
     {
       "id": 40167,
-      "name": "George",
-      "path": "treasure/40167"
+      "name": "George"
     },
     {
       "id": 40168,
-      "name": "Tony",
-      "path": "treasure/40168"
+      "name": "Tony"
     },
     {
       "id": 40169,
-      "name": "Gun That Can Kill the Past",
-      "path": "treasure/40169"
+      "name": "Gun That Can Kill the Past"
     },
     {
       "id": 40170,
-      "name": "Ser Junkan",
-      "path": "treasure/40170"
+      "name": "Ser Junkan"
     },
     {
       "id": 40171,
-      "name": "Spewer",
-      "path": "treasure/40171"
+      "name": "Spewer"
     },
     {
       "id": 40172,
-      "name": "Water Bottle",
-      "path": "treasure/40172"
+      "name": "Water Bottle"
     },
     {
       "id": 40173,
-      "name": "Boxing Glove",
-      "path": "treasure/40173"
+      "name": "Boxing Glove"
     },
     {
       "id": 40174,
-      "name": "The Crowdfunder",
-      "path": "treasure/40174"
+      "name": "The Crowdfunder"
     },
     {
       "id": 40175,
-      "name": "Doorway",
-      "path": "treasure/40175"
+      "name": "Doorway"
     },
     {
       "id": 40176,
-      "name": "Hitops",
-      "path": "treasure/40176"
+      "name": "Hitops"
     },
     {
       "id": 40177,
       "name": "Godhead (Alt Art)",
-      "path": "treasure/40177",
       "alt": [
         40082
       ]
@@ -900,7 +723,6 @@
     {
       "id": 40178,
       "name": "Brimstone (Alt Art)",
-      "path": "treasure/40178",
       "alt": [
         40019
       ]
@@ -908,7 +730,6 @@
     {
       "id": 40179,
       "name": "Guppy's Paw (Alt Art)",
-      "path": "treasure/40179",
       "alt": [
         40104
       ]
@@ -916,63 +737,52 @@
     {
       "id": 40180,
       "name": "Epic Fetus! (Alt Art)",
-      "path": "treasure/40180",
       "alt": [
         40186
       ]
     },
     {
       "id": 40181,
-      "name": "Clicker",
-      "path": "treasure/40181"
+      "name": "Clicker"
     },
     {
       "id": 40182,
-      "name": "Rock Bottom",
-      "path": "treasure/40182"
+      "name": "Rock Bottom"
     },
     {
       "id": 40183,
-      "name": "Dad's Note",
-      "path": "treasure/40183"
+      "name": "Dad's Note"
     },
     {
       "id": 40184,
-      "name": "Dead Eye",
-      "path": "treasure/40184"
+      "name": "Dead Eye"
     },
     {
       "id": 40185,
-      "name": "Marked",
-      "path": "treasure/40185"
+      "name": "Marked"
     },
     {
       "id": 40186,
       "name": "Epic Fetus!",
-      "path": "treasure/40186",
       "alt": [
         40180
       ]
     },
     {
       "id": 40187,
-      "name": "Lil' Gish",
-      "path": "treasure/40187"
+      "name": "Lil' Gish"
     },
     {
       "id": 40188,
-      "name": "Black Proglottid",
-      "path": "treasure/40188"
+      "name": "Black Proglottid"
     },
     {
       "id": 40189,
-      "name": "Red Proglottid",
-      "path": "treasure/40189"
+      "name": "Red Proglottid"
     },
     {
       "id": 40190,
-      "name": "White Proglottid",
-      "path": "treasure/40190"
+      "name": "White Proglottid"
     }
   ]
 }
